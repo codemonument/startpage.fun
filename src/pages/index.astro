@@ -1,4 +1,5 @@
 ---
+import Image from "astro/components/Image.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { db, Link } from "astro:db";
 
@@ -7,16 +8,22 @@ const links = await db.select().from(Link).execute();
 
 <BaseLayout>
   <header
-    class="flex h-12 items-center bg-gray-700 text-2xl font-bold text-gray-100"
+    class="flex h-12 items-center bg-gray-900 px-2 text-2xl font-bold text-gray-100"
   >
     <h1>Your Links</h1>
   </header>
   <section class="mx-auto grid max-w-[900px] grid-cols-3 gap-4 p-4">
     {
       links.map((link) => (
-        <article class="min-h-25 min-w-40 rounded-md border-1 border-solid border-gray-300 bg-white p-4">
-          <h2>{link.title}</h2>
-          <p>{link.url}</p>
+        <article class="flex min-h-25 min-w-40 flex-col items-center rounded-md border-1 border-solid border-gray-300 bg-white p-4 shadow-md">
+          <img
+            src={link.image}
+            alt={link.title}
+            class="block h-20 w-full object-contain"
+          />
+          <h2>
+            {link.title} ({link.url})
+          </h2>
         </article>
       ))
     }
