@@ -13,6 +13,7 @@
 		"astro-add": "bunx --bun astro add"
 	},
 	"dependencies": {
+		"@astrojs/netlify": "^6.1.0",
 		"@astrojs/solid-js": "^5.0.4",
 		"astro": "^5.2.5",
 		"solid-js": "^1.9.4"
