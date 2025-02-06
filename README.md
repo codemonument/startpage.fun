@@ -1,5 +1,8 @@
 # startpage.fun
 
+For prod deployment on netlify: configure turso db for astro:
+https://docs.astro.build/en/guides/astro-db/#getting-started-with-turso
+
 ---
 
 # Repo Log
