@@ -13,6 +13,7 @@
 		"astro-add": "bunx --bun astro add"
 	},
 	"dependencies": {
+		"@astrojs/db": "^0.14.6",
 		"@astrojs/netlify": "^6.1.0",
 		"@astrojs/solid-js": "^5.0.4",
 		"@tailwindcss/vite": "^4.0.3",
