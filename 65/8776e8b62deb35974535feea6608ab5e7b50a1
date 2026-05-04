@@ -1,0 +1,29 @@
+.beans/startpage.fun-xmgu--define-speeddial-2-architecture-and-product-direct.md
+  aad9c53b788c7c1c 4,6,8,13-30
+CONTEXT.md
+  aad9c53b788c7c1c 1-267
+meta/implementation-details.md
+  aad9c53b788c7c1c 1-299
+docs/agents/domain.md
+  aad9c53b788c7c1c 8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "658776e8b62deb35974535feea6608ab5e7b50a1",
+  "prompts": {
+    "aad9c53b788c7c1c": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019df1c9-c215-776a-8db3-c476d0e0c4ec",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Benjamin Jesuiter",
+      "messages": [],
+      "total_additions": 4639,
+      "total_deletions": 80,
+      "accepted_lines": 4567,
+      "overriden_lines": 0
+    }
+  }
+}
