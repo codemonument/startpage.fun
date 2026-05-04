@@ -3,10 +3,11 @@
 title: 'PRD: Build startpage.fun v1'
 status: todo
 type: epic
+priority: normal
 tags:
     - needs-triage
 created_at: 2026-05-04T10:55:31Z
-updated_at: 2026-05-04T10:55:31Z
+updated_at: 2026-05-04T12:47:57Z
 ---
 
 ## Problem Statement
@@ -110,6 +111,8 @@ Build `startpage.fun` v1 as an offline-capable PWA whose source of truth is a pe
 - Maintain command and menu parity wherever possible: visible disabled entries, context-sensitive availability, keyboard accessibility, and equivalent focus outcomes to direct interaction.
 - Respect the decision that Trash is special: separately accessed, immutable as a Space, no Add Tile, but still capable of launch, restore, and permanent deletion behaviors.
 - Use one global visual system for v1, but allow a single global custom background image stored locally and processed for performance.
+- Base implementation stack: Solid 1.x stable, Tailwind CSS, Vite with vite-plugin-solid and vite-plugin-pwa, Kobalte, fuzzysort, Valibot, and Dexie.
+- Asset persistence split: store structured local data and Dial icons in IndexedDB via Dexie, while storing the global background image in OPFS with original and compressed variants.
 - Keep several capabilities explicitly out of the main v1 flow even if the data model leaves room for them later: Cloud Sync, folders, nested folders, browser-extension-only features, bookmark import, and cross-Space drag of Dials.
 
 ## Testing Decisions

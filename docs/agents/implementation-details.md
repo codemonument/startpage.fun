@@ -26,6 +26,11 @@ Working list of currently decided implementation details for `startpage.fun`.
 ## Frontend stack
 
 - Use **Solid 1.x stable** for v1
+- Use **Tailwind CSS** as the primary styling system
+- Use **Vite** with **vite-plugin-solid** and **vite-plugin-pwa** for the app shell/build baseline
+- Use **Kobalte** for headless UI primitives
+- Use **fuzzysort** for Dial Search and Command Box matching
+- Use **Valibot** for schema validation of persisted data, drafts, settings, and form inputs
 
 ## Data and storage
 
@@ -33,6 +38,9 @@ Working list of currently decided implementation details for `startpage.fun`.
 - Source of truth is local browser storage on the current device
 - No account system in v1
 - Cloud sync may be added later
+- Use **Dexie** for IndexedDB-backed structured local data
+- Store Dial icon assets in IndexedDB
+- Store the background image in OPFS, keeping both original and compressed variants
 
 ## Core UI model
 
