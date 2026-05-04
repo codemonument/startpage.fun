@@ -1,0 +1,41 @@
+.beans/startpage.fun-5wl3--run-command-mode-actions-and-direct-settings-chang.md
+  aad9c53b788c7c1c 1-28
+.beans/startpage.fun-nhnb--add-trash-purge-retention-and-permanent-delete-con.md
+  aad9c53b788c7c1c 1-28
+docs/agents/vertical-slice-plan.md
+  aad9c53b788c7c1c 129-131
+.beans/startpage.fun-g4w9--add-the-initial-test-harness-and-conventions.md
+  aad9c53b788c7c1c 1-28
+.beans/startpage.fun-hqkr--search-dials-in-the-command-box.md
+  aad9c53b788c7c1c 1-28
+.beans/startpage.fun-g3ip--support-touch-interactions-for-dials-and-spaces.md
+  aad9c53b788c7c1c 1-32
+.beans/startpage.fun-ro5t--store-and-render-the-global-background-image-throu.md
+  aad9c53b788c7c1c 1-28
+.beans/startpage.fun-1l0i--add-keyboard-focus-movement-and-menu-access.md
+  aad9c53b788c7c1c 1-32
+.beans/startpage.fun-d0zz--publish-remaining-approved-vertical-slices.md
+  aad9c53b788c7c1c 4,6,8,14-22
+.beans/startpage.fun-75co--delete-to-trash-and-restore-into-the-original-spac.md
+  aad9c53b788c7c1c 1-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "9f8cd41bd87743bd76a76362adcc82ab3cf4eec7",
+  "prompts": {
+    "aad9c53b788c7c1c": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019df1c9-c215-776a-8db3-c476d0e0c4ec",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Benjamin Jesuiter",
+      "messages": [],
+      "total_additions": 250,
+      "total_deletions": 8,
+      "accepted_lines": 249,
+      "overriden_lines": 0
+    }
+  }
+}
