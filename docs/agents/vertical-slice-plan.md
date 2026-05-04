@@ -126,6 +126,7 @@ Current proposed implementation order for `startpage.fun` v1.
 
 ## Notes
 
-- This plan is still a proposal, not yet published as individual implementation beans
-- When converting slices into beans, keep them vertical and independently valuable
+- All slices in this plan have now been published as individual beans for review and scheduling
+- The slice plan remains refinable; bean scopes can still be adjusted later if implementation teaches us something new
+- Keep slices vertical and independently valuable as implementation starts
 - If a slice starts needing large amounts of mocking, reconsider the slice boundary before adding more test tooling
