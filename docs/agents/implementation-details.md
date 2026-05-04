@@ -42,6 +42,19 @@ Working list of currently decided implementation details for `startpage.fun`.
 - Store Dial icon assets in IndexedDB
 - Store the background image in OPFS, keeping both original and compressed variants
 
+## Testing strategy
+
+- Keep the initial test setup as simple as possible
+- Use **Vitest** for pure logic/domain tests
+- Prefer as little mocking as possible
+- Use **Playwright** for complete browser end-to-end tests
+- Skip the middle mocked/component-testing layer for now unless it proves clearly worthwhile later
+- Defer **@testing-library/*** until a real need appears
+- Defer **fake-indexeddb** until real Dexie repository tests justify it
+- Major vertical slices should each add at least one happy-path browser E2E test
+- Prefer setting up E2E test state through real UI flows rather than test-only seed helpers
+- Do not add visual/screenshot assertion testing in the initial setup
+
 ## Core UI model
 
 - The top-level grouping unit is a **Space**
@@ -304,4 +317,5 @@ Working list of currently decided implementation details for `startpage.fun`.
 ## Notes
 
 - This file is for implementation-facing decisions that should not get lost during planning.
+- The current proposed implementation order lives in `docs/agents/vertical-slice-plan.md`.
 - Domain language and product concepts live in `CONTEXT.md`.
