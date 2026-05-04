@@ -5,7 +5,7 @@ How the engineering skills should consume this repo's domain documentation when 
 ## Before exploring, read these
 
 - `CONTEXT.md` at the repo root
-- `meta/implementation-details.md` for implementation-facing product and UX constraints
+- `docs/agents/implementation-details.md` for implementation-facing product and UX constraints
 - `docs/adr/` for architectural decisions relevant to the area you're about to work in
 
 If these files do not exist yet, proceed silently. Do not block work on their absence.
