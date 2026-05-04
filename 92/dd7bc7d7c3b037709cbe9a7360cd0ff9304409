@@ -1,0 +1,23 @@
+.beans/startpage.fun-oedi--integrate-library-choices-into-planning-artifacts.md
+  aad9c53b788c7c1c 1-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "92dd7bc7d7c3b037709cbe9a7360cd0ff9304409",
+  "prompts": {
+    "aad9c53b788c7c1c": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019df1c9-c215-776a-8db3-c476d0e0c4ec",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Benjamin Jesuiter",
+      "messages": [],
+      "total_additions": 60,
+      "total_deletions": 13,
+      "accepted_lines": 352,
+      "overriden_lines": 0
+    }
+  }
+}
