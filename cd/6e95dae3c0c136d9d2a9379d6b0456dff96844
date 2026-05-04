@@ -1,0 +1,23 @@
+.beans/startpage.fun-cyru--remove-unused-vertical-slice-plan-document.md
+  aad9c53b788c7c1c 1-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "cd6e95dae3c0c136d9d2a9379d6b0456dff96844",
+  "prompts": {
+    "aad9c53b788c7c1c": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019df1c9-c215-776a-8db3-c476d0e0c4ec",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Benjamin Jesuiter",
+      "messages": [],
+      "total_additions": 15,
+      "total_deletions": 0,
+      "accepted_lines": 15,
+      "overriden_lines": 0
+    }
+  }
+}
