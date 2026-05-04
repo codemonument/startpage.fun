@@ -317,5 +317,5 @@ Working list of currently decided implementation details for `startpage.fun`.
 ## Notes
 
 - This file is for implementation-facing decisions that should not get lost during planning.
-- The current proposed implementation order lives in `docs/agents/vertical-slice-plan.md`.
+- Vertical implementation slices are tracked as beans under `.beans/`.
 - Domain language and product concepts live in `CONTEXT.md`.
