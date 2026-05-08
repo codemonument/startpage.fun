@@ -1,0 +1,138 @@
+e2e/trash-management.spec.ts
+  65a6d03cab00bed1 1-19
+src/app/trash.ts
+  65a6d03cab00bed1 1-141
+src/app/settings.ts
+  65a6d03cab00bed1 8-10
+src/app/search.ts
+  65a6d03cab00bed1 1-63
+.beans/startpage.fun-pao8--reorder-dials-and-enforce-add-tile-behavior.md
+  65a6d03cab00bed1 4,6,10,23-24,28-43
+e2e/trash-restore.spec.ts
+  65a6d03cab00bed1 1-25
+.beans/startpage.fun-hqkr--search-dials-in-the-command-box.md
+  65a6d03cab00bed1 4,6,10,23-24,28-42
+e2e/background-image.spec.ts
+  65a6d03cab00bed1 1-17
+src/app/space-bar.test.ts
+  65a6d03cab00bed1 1-94
+src/app/dial-editor.test.ts
+  s_65a6d03cab00be::t_6c022fd294df86 51-57,63-65,76-89,94-96,112-114,119-129,131-173
+  65a6d03cab00bed1 1-50,58-62,66-75,90-93,97-111,115-118,130,174-175
+src/data/bootstrap-repository.ts
+  65a6d03cab00bed1 3,10,41-54
+src/app/command-mode.test.ts
+  65a6d03cab00bed1 1-50
+src/app/dial-editor.ts
+  s_65a6d03cab00be::t_7055ac46b84ddd 1,9-10,31-33,84,88-96
+  65a6d03cab00bed1 2-8,11-30,34-83,85-87,97-145
+.beans/startpage.fun-uliu--edit-a-dial-with-drafts-and-duplicate-warnings.md
+  65a6d03cab00bed1 4,6,10,23-24,28-42
+pnpm-lock.yaml
+  ai_agent 17-19,1716-1718,4727
+.beans/startpage.fun-ro5t--store-and-render-the-global-background-image-throu.md
+  65a6d03cab00bed1 4,6,10,23-24,28-43
+src/app/background-image.ts
+  65a6d03cab00bed1 1-64
+e2e/space-overflow.spec.ts
+  65a6d03cab00bed1 1-30
+e2e/dial-editor.spec.ts
+  65a6d03cab00bed1 1-24
+src/data/background-storage.ts
+  65a6d03cab00bed1 1-88
+src/app/dials.test.ts
+  65a6d03cab00bed1 57-78
+src/app/space-bar.ts
+  65a6d03cab00bed1 1-47
+src/app/icon-assets.test.ts
+  65a6d03cab00bed1 1-5,7-41,64-81
+  s_65a6d03cab00be::t_e5703980845427 6,42-63
+.beans/startpage.fun-jktm--render-the-space-bar-with-overflow-modes-and-full.md
+  65a6d03cab00bed1 4,6,10,23-24,28-42
+e2e/dial-reorder.spec.ts
+  65a6d03cab00bed1 1-18
+e2e/app-shell.spec.ts
+  65a6d03cab00bed1 3
+src/app/icon-assets.ts
+  65a6d03cab00bed1 1-72
+src/components/App.tsx
+  s_65a6d03cab00be::t_3e483073e7436b 1482-1488
+  s_65a6d03cab00be::t_69cba9c18b6614 1838-1866
+  s_65a6d03cab00be::t_58cefdd09853c0 1374-1424
+  s_65a6d03cab00be::t_37b09af6ca65fd 273-290
+  s_65a6d03cab00be::t_07b287bdb74193 15,1103-1104
+  s_65a6d03cab00be::t_a6fa241c93379b 860-861
+  65a6d03cab00bed1 3-13,21-22,31-41,44,48-53,67-71,78-79,84-95,125-146,148,168-177,184-272,291-325,389-390,398-661,781-789,834-835,839-842,845,849-851,853-855,857,859,862-864,867-869,871-873,876-880,883,886,888-894,917,925,927-948,951-993,995-996,1001-1022,1080,1084-1088,1090-1091,1097-1100,1102,1105-1107,1110-1113,1116-1117,1120-1121,1124,1127,1129-1133,1135-1141,1153-1162,1177-1199,1203,1207,1209,1211-1245,1259,1261-1271,1274-1326,1328-1373,1425-1481,1489-1535,1592-1676,1727-1837,1867-1972
+src/app/dials.ts
+  65a6d03cab00bed1 1,30-31
+.beans/startpage.fun-nhnb--add-trash-purge-retention-and-permanent-delete-con.md
+  65a6d03cab00bed1 4,6,10,23-24,28-42
+.beans/startpage.fun-75co--delete-to-trash-and-restore-into-the-original-spac.md
+  65a6d03cab00bed1 4,6,10,24-25,29-44
+.beans/startpage.fun-2z2z--resolve-favicon-fallback-and-custom-icon-assets.md
+  s_65a6d03cab00be::t_039f49eaa06781 23-24,28-44
+  s_65a6d03cab00be::t_9592e5908e0f0c 4,10
+  65a6d03cab00bed1 6
+package.json
+  65a6d03cab00bed1 19
+src/app/bootstrap.test.ts
+  65a6d03cab00bed1 29-31,71-73
+src/app/settings.test.ts
+  65a6d03cab00bed1 20-22
+src/app/command-mode.ts
+  65a6d03cab00bed1 1-80
+src/app/dial-layout.test.ts
+  65a6d03cab00bed1 1-49
+playwright.config.ts
+  65a6d03cab00bed1 5-6
+src/app/trash.test.ts
+  65a6d03cab00bed1 1-150
+src/app/library.ts
+  65a6d03cab00bed1 3-9,13-22,34-35,38,40
+src/app/search.test.ts
+  65a6d03cab00bed1 1-65
+src/app/dial-layout.ts
+  65a6d03cab00bed1 1-45
+.beans/startpage.fun-5wl3--run-command-mode-actions-and-direct-settings-chang.md
+  65a6d03cab00bed1 4,6,10,25-26,30-45
+e2e/icon-assets.spec.ts
+  s_65a6d03cab00be::t_c2c36f7ca28b75 1-14,16-26
+  s_65a6d03cab00be::t_79e63f06161644 15
+src/app/starter-templates.ts
+  65a6d03cab00bed1 2,71-72
+e2e/command-mode.spec.ts
+  65a6d03cab00bed1 1-16
+src/app/background-image.test.ts
+  65a6d03cab00bed1 1-50
+e2e/dial-search.spec.ts
+  65a6d03cab00bed1 1-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "f99da8c309e0bb32bca996be95533926a2b4d259",
+  "prompts": {
+    "65a6d03cab00bed1": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019df325-3942-768a-bccb-5df668f3e999",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Benjamin Jesuiter <bjesuiter@gmail.com>",
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 3044,
+      "overriden_lines": 0
+    }
+  },
+  "sessions": {
+    "s_65a6d03cab00be": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019df325-3942-768a-bccb-5df668f3e999",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Benjamin Jesuiter <bjesuiter@gmail.com>"
+    }
+  }
+}
