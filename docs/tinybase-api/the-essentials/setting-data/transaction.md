@@ -1,0 +1,208 @@
+[![TinyBase logo](https://tinybase.org/favicon.svg)TinyBase](https://tinybase.org/)
+  1. No results found
+
+
+  * [Guides](https://tinybase.org/guides/)
+  * [Demos](https://tinybase.org/demos/)
+  * [API](https://tinybase.org/api/)
+  * [GitHub](https://github.com/tinyplex/tinybase)
+
+
+  * [TinyBase](https://tinybase.org/)
+    * [Guides](https://tinybase.org/guides/)
+    * [Demos](https://tinybase.org/demos/)
+    * [API](https://tinybase.org/api/)
+      * [The Essentials](https://tinybase.org/api/the-essentials/)
+        * [Creating stores](https://tinybase.org/api/the-essentials/creating-stores/)
+        * [Getting data](https://tinybase.org/api/the-essentials/getting-data/)
+        * [Setting data](https://tinybase.org/api/the-essentials/setting-data/)
+          * [`setRow`](https://tinybase.org/api/the-essentials/setting-data/setrow/)
+          * [`addRow`](https://tinybase.org/api/the-essentials/setting-data/addrow/)
+          * [`setCell`](https://tinybase.org/api/the-essentials/setting-data/setcell/)
+          * [`setValue`](https://tinybase.org/api/the-essentials/setting-data/setvalue/)
+          * [`transaction`](https://tinybase.org/api/the-essentials/setting-data/transaction/)
+        * [Listening for changes](https://tinybase.org/api/the-essentials/listening-for-changes/)
+        * [Persisting stores](https://tinybase.org/api/the-essentials/persisting-stores/)
+        * [Synchronizing stores](https://tinybase.org/api/the-essentials/synchronizing-stores/)
+        * [Using React](https://tinybase.org/api/the-essentials/using-react/)
+        * [Using Svelte](https://tinybase.org/api/the-essentials/using-svelte/)
+      * [`store`](https://tinybase.org/api/store/)
+      * [`mergeable-store`](https://tinybase.org/api/mergeable-store/)
+      * [`metrics`](https://tinybase.org/api/metrics/)
+      * [`indexes`](https://tinybase.org/api/indexes/)
+      * [`relationships`](https://tinybase.org/api/relationships/)
+      * [`queries`](https://tinybase.org/api/queries/)
+      * [`checkpoints`](https://tinybase.org/api/checkpoints/)
+      * [`common`](https://tinybase.org/api/common/)
+      * [`persisters`](https://tinybase.org/api/persisters/)
+      * [`persister-automerge`](https://tinybase.org/api/persister-automerge/)
+      * [`persister-browser`](https://tinybase.org/api/persister-browser/)
+      * [`persister-cr-sqlite-wasm`](https://tinybase.org/api/persister-cr-sqlite-wasm/)
+      * [`persister-durable-object-sql-storage`](https://tinybase.org/api/persister-durable-object-sql-storage/)
+      * [`persister-durable-object-storage`](https://tinybase.org/api/persister-durable-object-storage/)
+      * [`persister-electric-sql`](https://tinybase.org/api/persister-electric-sql/)
+      * [`persister-expo-sqlite`](https://tinybase.org/api/persister-expo-sqlite/)
+      * [`persister-file`](https://tinybase.org/api/persister-file/)
+      * [`persister-indexed-db`](https://tinybase.org/api/persister-indexed-db/)
+      * [`persister-libsql`](https://tinybase.org/api/persister-libsql/)
+      * [`persister-partykit-client`](https://tinybase.org/api/persister-partykit-client/)
+      * [`persister-partykit-server`](https://tinybase.org/api/persister-partykit-server/)
+      * [`persister-pglite`](https://tinybase.org/api/persister-pglite/)
+      * [`persister-postgres`](https://tinybase.org/api/persister-postgres/)
+      * [`persister-powersync`](https://tinybase.org/api/persister-powersync/)
+      * [`persister-react-native-mmkv`](https://tinybase.org/api/persister-react-native-mmkv/)
+      * [`persister-react-native-sqlite`](https://tinybase.org/api/persister-react-native-sqlite/)
+      * [`persister-remote`](https://tinybase.org/api/persister-remote/)
+      * [`persister-sqlite-bun`](https://tinybase.org/api/persister-sqlite-bun/)
+      * [`persister-sqlite-wasm`](https://tinybase.org/api/persister-sqlite-wasm/)
+      * [`persister-sqlite3`](https://tinybase.org/api/persister-sqlite3/)
+      * [`persister-yjs`](https://tinybase.org/api/persister-yjs/)
+      * [`synchronizers`](https://tinybase.org/api/synchronizers/)
+      * [`synchronizer-broadcast-channel`](https://tinybase.org/api/synchronizer-broadcast-channel/)
+      * [`synchronizer-local`](https://tinybase.org/api/synchronizer-local/)
+      * [`synchronizer-ws-client`](https://tinybase.org/api/synchronizer-ws-client/)
+      * [`synchronizer-ws-server`](https://tinybase.org/api/synchronizer-ws-server/)
+      * [`synchronizer-ws-server-durable-object`](https://tinybase.org/api/synchronizer-ws-server-durable-object/)
+      * [`synchronizer-ws-server-simple`](https://tinybase.org/api/synchronizer-ws-server-simple/)
+      * [`ui-react`](https://tinybase.org/api/ui-react/)
+      * [`ui-react-dom`](https://tinybase.org/api/ui-react-dom/)
+      * [`ui-react-inspector`](https://tinybase.org/api/ui-react-inspector/)
+      * [`ui-svelte`](https://tinybase.org/api/ui-svelte/)
+      * [`ui-svelte-dom`](https://tinybase.org/api/ui-svelte-dom/)
+      * [`ui-svelte-inspector`](https://tinybase.org/api/ui-svelte-inspector/)
+      * [`middleware`](https://tinybase.org/api/middleware/)
+      * [`schematizer-arktype`](https://tinybase.org/api/schematizer-arktype/)
+      * [`schematizer-effect`](https://tinybase.org/api/schematizer-effect/)
+      * [`schematizer-typebox`](https://tinybase.org/api/schematizer-typebox/)
+      * [`schematizer-valibot`](https://tinybase.org/api/schematizer-valibot/)
+      * [`schematizer-yup`](https://tinybase.org/api/schematizer-yup/)
+      * [`schematizer-zod`](https://tinybase.org/api/schematizer-zod/)
+      * [`schematizers`](https://tinybase.org/api/schematizers/)
+
+
+  * [TinyBase](https://tinybase.org/)
+  * [API](https://tinybase.org/api/)
+  * [The Essentials](https://tinybase.org/api/the-essentials/)
+  * [Setting data](https://tinybase.org/api/the-essentials/setting-data/)
+  * [`transaction`](https://tinybase.org/api/the-essentials/setting-data/transaction/)
+
+
+# `transaction`
+Essential
+The `transaction` method takes a function that makes multiple mutations to the [`Store`](https://tinybase.org/api/the-essentials/creating-stores/store/), buffering all calls to the relevant listeners until it completes.
+
+```
+transaction[](https://tinybase.org/api/the-essentials/setting-data/transaction/)<Return>(
+  actions: () => Return,
+  doRollback?: DoRollback[](https://tinybase.org/api/store/type-aliases/callback/dorollback/),
+): Return
+```
+  
+|   | Type  | Description  |  
+| --- | --- | --- |  
+| `actions`  | `() => Return`  | The function to be executed as a transaction.  |  
+| `doRollback?`  | `DoRollback[](https://tinybase.org/api/store/type-aliases/callback/dorollback/)`  | An optional callback that should return `true` if you want to rollback the transaction at the end. Since v1.2.  |  
+| returns  | `Return`  | Whatever value the provided transaction function returns.  |  
+This method is useful for making bulk changes to the data in a [`Store`](https://tinybase.org/api/the-essentials/creating-stores/store/), and when you don't want listeners to be called as you make each change. [`Changes`](https://tinybase.org/api/store/type-aliases/transaction/changes/) are made silently during the transaction, and listeners relevant to the changes you have made will instead only be called when the whole transaction is complete.
+If multiple changes are made to a piece of [`Store`](https://tinybase.org/api/the-essentials/creating-stores/store/) data throughout the transaction, a relevant listener will only be called with the final value (assuming it is different to the value at the start of the transaction), regardless of the changes that happened in between. For example, if a [`Cell`](https://tinybase.org/api/store/type-aliases/store/cell/) had a value `'a'` and then, within a transaction, it was changed to `'b'` and then `'c'`, any [`CellListener`](https://tinybase.org/api/store/type-aliases/listener/celllistener/) registered for that cell would be called once as if there had been a single change from `'a'` to `'c'`.
+[Transactions](https://tinybase.org/guides/the-basics/transactions/) can be nested. Relevant listeners will be called only when the outermost one completes.
+The second, optional parameter, `doRollback` is a [`DoRollback`](https://tinybase.org/api/store/type-aliases/callback/dorollback/) callback that you can use to rollback the transaction if it did not complete to your satisfaction. See the [`DoRollback`](https://tinybase.org/api/store/type-aliases/callback/dorollback/) documentation for more details.
+## Examples
+This example makes changes to two Cells, first outside, and secondly within, a transaction. In the second case, the [`Row`](https://tinybase.org/api/store/type-aliases/store/row/) listener is only called once.
+
+```
+import {createStore} from 'tinybase';
+
+const store = createStore[](https://tinybase.org/api/the-essentials/creating-stores/createstore/)().setTables[](https://tinybase.org/api/store/interfaces/store/store/methods/setter/settables/)({pets: {fido: {species: 'dog'}}});
+store.addRowListener[](https://tinybase.org/api/the-essentials/listening-for-changes/addrowlistener/)('pets', 'fido', () => console.log('Fido changed'));
+
+store
+  .setCell[](https://tinybase.org/api/the-essentials/setting-data/setcell/)('pets', 'fido', 'color', 'brown')
+  .setCell[](https://tinybase.org/api/the-essentials/setting-data/setcell/)('pets', 'fido', 'sold', false);
+// -> 'Fido changed'
+// -> 'Fido changed'
+
+store.transaction[](https://tinybase.org/api/the-essentials/setting-data/transaction/)(() =>
+  store
+    .setCell[](https://tinybase.org/api/the-essentials/setting-data/setcell/)('pets', 'fido', 'color', 'walnut')
+    .setCell[](https://tinybase.org/api/the-essentials/setting-data/setcell/)('pets', 'fido', 'sold', true),
+);
+// -> 'Fido changed'
+
+```
+
+This example makes multiple changes to one [`Cell`](https://tinybase.org/api/store/type-aliases/store/cell/). The [`Cell`](https://tinybase.org/api/store/type-aliases/store/cell/) listener is called once - and with the final value - only if there is a net overall change.
+
+```
+import {createStore} from 'tinybase';
+
+const store = createStore[](https://tinybase.org/api/the-essentials/creating-stores/createstore/)().setTables[](https://tinybase.org/api/store/interfaces/store/store/methods/setter/settables/)({pets: {fido: {species: 'dog'}}});
+store.addCellListener[](https://tinybase.org/api/the-essentials/listening-for-changes/addcelllistener/)(
+  'pets',
+  'fido',
+  'color',
+  (store, tableId, rowId, cellId, newCell) => console.log(newCell),
+);
+
+store.transaction[](https://tinybase.org/api/the-essentials/setting-data/transaction/)(() =>
+  store
+    .setCell[](https://tinybase.org/api/the-essentials/setting-data/setcell/)('pets', 'fido', 'color', 'black')
+    .setCell[](https://tinybase.org/api/the-essentials/setting-data/setcell/)('pets', 'fido', 'color', 'brown')
+    .setCell[](https://tinybase.org/api/the-essentials/setting-data/setcell/)('pets', 'fido', 'color', 'walnut'),
+);
+// -> 'walnut'
+
+store.transaction[](https://tinybase.org/api/the-essentials/setting-data/transaction/)(() =>
+  store
+    .setCell[](https://tinybase.org/api/the-essentials/setting-data/setcell/)('pets', 'fido', 'color', 'black')
+    .setCell[](https://tinybase.org/api/the-essentials/setting-data/setcell/)('pets', 'fido', 'color', 'walnut'),
+);
+// -> undefined
+// No net change during the transaction, so the listener is not called.
+
+```
+
+This example makes multiple changes to the [`Store`](https://tinybase.org/api/the-essentials/creating-stores/store/), including some attempts to update a [`Cell`](https://tinybase.org/api/store/type-aliases/store/cell/) and [`Value`](https://tinybase.org/api/store/type-aliases/store/value/) with invalid values. The `doRollback` callback receives information about the changes and invalid attempts, and then judges that the transaction should be rolled back to its original state.
+
+```
+import {createStore} from 'tinybase';
+
+const store = createStore[](https://tinybase.org/api/the-essentials/creating-stores/createstore/)()
+  .setTables[](https://tinybase.org/api/store/interfaces/store/store/methods/setter/settables/)({pets: {fido: {species: 'dog', color: 'brown'}}})
+  .setValues[](https://tinybase.org/api/store/interfaces/store/store/methods/setter/setvalues/)({open: true});
+
+store.transaction[](https://tinybase.org/api/the-essentials/setting-data/transaction/)(
+  () =>
+    store
+      .setCell[](https://tinybase.org/api/the-essentials/setting-data/setcell/)('pets', 'fido', 'color', 'black')
+      .setCell[](https://tinybase.org/api/the-essentials/setting-data/setcell/)('pets', 'fido', 'date0', new Date(0))
+      .setCell[](https://tinybase.org/api/the-essentials/setting-data/setcell/)('pets', 'fido', 'date1', new Date(1))
+      .setValue[](https://tinybase.org/api/the-essentials/setting-data/setvalue/)('open', false)
+      .setValue[](https://tinybase.org/api/the-essentials/setting-data/setvalue/)('date2', new Date(2)),
+  () => {
+    const [, , changedCells, invalidCells, changedValues, invalidValues] =
+      store.getTransactionLog[](https://tinybase.org/api/store/interfaces/store/store/methods/transaction/gettransactionlog/)();
+    console.log(store.getTables[](https://tinybase.org/api/store/interfaces/store/store/methods/getter/gettables/)());
+    console.log(changedCells);
+    console.log(invalidCells);
+    console.log(changedValues);
+    console.log(invalidValues);
+    return invalidCells['pets'] != null;
+  },
+);
+// -> {pets: {fido: {species: 'dog', color: 'black'}}}
+// -> {pets: {fido: {color: ['brown', 'black']}}}
+// -> {pets: {fido: {date0: [new Date(0)], date1: [new Date(1)]}}}
+// -> {open: [true, false]}
+// -> {date2: [new Date(2)]}
+
+console.log(store.getTables[](https://tinybase.org/api/store/interfaces/store/store/methods/getter/gettables/)());
+// -> {pets: {fido: {species: 'dog', color: 'brown'}}}
+console.log(store.getValues[](https://tinybase.org/api/store/interfaces/store/store/methods/getter/getvalues/)());
+// -> {open: true}
+
+```
+
+## Since
+v1.0.0
+[GitHub](https://github.com/tinyplex/tinybase)[Bluesky](https://bsky.app/profile/tinybase.bsky.social)[X / Twitter](https://x.com/tinybasejs)[Discord](https://discord.com/invite/mGz3mevwP8)[TinyBase v8.2.0](https://tinybase.org/) © 2022-

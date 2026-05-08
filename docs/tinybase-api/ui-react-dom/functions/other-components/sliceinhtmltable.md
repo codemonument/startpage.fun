@@ -1,0 +1,225 @@
+[![TinyBase logo](https://tinybase.org/favicon.svg)TinyBase](https://tinybase.org/)
+  1. No results found
+
+
+  * [Guides](https://tinybase.org/guides/)
+  * [Demos](https://tinybase.org/demos/)
+  * [API](https://tinybase.org/api/)
+  * [GitHub](https://github.com/tinyplex/tinybase)
+
+
+  * [TinyBase](https://tinybase.org/)
+    * [Guides](https://tinybase.org/guides/)
+    * [Demos](https://tinybase.org/demos/)
+    * [API](https://tinybase.org/api/)
+      * [The Essentials](https://tinybase.org/api/the-essentials/)
+      * [`store`](https://tinybase.org/api/store/)
+      * [`mergeable-store`](https://tinybase.org/api/mergeable-store/)
+      * [`metrics`](https://tinybase.org/api/metrics/)
+      * [`indexes`](https://tinybase.org/api/indexes/)
+      * [`relationships`](https://tinybase.org/api/relationships/)
+      * [`queries`](https://tinybase.org/api/queries/)
+      * [`checkpoints`](https://tinybase.org/api/checkpoints/)
+      * [`common`](https://tinybase.org/api/common/)
+      * [`persisters`](https://tinybase.org/api/persisters/)
+      * [`persister-automerge`](https://tinybase.org/api/persister-automerge/)
+      * [`persister-browser`](https://tinybase.org/api/persister-browser/)
+      * [`persister-cr-sqlite-wasm`](https://tinybase.org/api/persister-cr-sqlite-wasm/)
+      * [`persister-durable-object-sql-storage`](https://tinybase.org/api/persister-durable-object-sql-storage/)
+      * [`persister-durable-object-storage`](https://tinybase.org/api/persister-durable-object-storage/)
+      * [`persister-electric-sql`](https://tinybase.org/api/persister-electric-sql/)
+      * [`persister-expo-sqlite`](https://tinybase.org/api/persister-expo-sqlite/)
+      * [`persister-file`](https://tinybase.org/api/persister-file/)
+      * [`persister-indexed-db`](https://tinybase.org/api/persister-indexed-db/)
+      * [`persister-libsql`](https://tinybase.org/api/persister-libsql/)
+      * [`persister-partykit-client`](https://tinybase.org/api/persister-partykit-client/)
+      * [`persister-partykit-server`](https://tinybase.org/api/persister-partykit-server/)
+      * [`persister-pglite`](https://tinybase.org/api/persister-pglite/)
+      * [`persister-postgres`](https://tinybase.org/api/persister-postgres/)
+      * [`persister-powersync`](https://tinybase.org/api/persister-powersync/)
+      * [`persister-react-native-mmkv`](https://tinybase.org/api/persister-react-native-mmkv/)
+      * [`persister-react-native-sqlite`](https://tinybase.org/api/persister-react-native-sqlite/)
+      * [`persister-remote`](https://tinybase.org/api/persister-remote/)
+      * [`persister-sqlite-bun`](https://tinybase.org/api/persister-sqlite-bun/)
+      * [`persister-sqlite-wasm`](https://tinybase.org/api/persister-sqlite-wasm/)
+      * [`persister-sqlite3`](https://tinybase.org/api/persister-sqlite3/)
+      * [`persister-yjs`](https://tinybase.org/api/persister-yjs/)
+      * [`synchronizers`](https://tinybase.org/api/synchronizers/)
+      * [`synchronizer-broadcast-channel`](https://tinybase.org/api/synchronizer-broadcast-channel/)
+      * [`synchronizer-local`](https://tinybase.org/api/synchronizer-local/)
+      * [`synchronizer-ws-client`](https://tinybase.org/api/synchronizer-ws-client/)
+      * [`synchronizer-ws-server`](https://tinybase.org/api/synchronizer-ws-server/)
+      * [`synchronizer-ws-server-durable-object`](https://tinybase.org/api/synchronizer-ws-server-durable-object/)
+      * [`synchronizer-ws-server-simple`](https://tinybase.org/api/synchronizer-ws-server-simple/)
+      * [`ui-react`](https://tinybase.org/api/ui-react/)
+      * [`ui-react-dom`](https://tinybase.org/api/ui-react-dom/)
+        * [Functions](https://tinybase.org/api/ui-react-dom/functions/)
+          * [Store components](https://tinybase.org/api/ui-react-dom/functions/store-components/)
+          * [Queries components](https://tinybase.org/api/ui-react-dom/functions/queries-components/)
+          * [Other components](https://tinybase.org/api/ui-react-dom/functions/other-components/)
+            * [`RelationshipInHtmlTable`](https://tinybase.org/api/ui-react-dom/functions/other-components/relationshipinhtmltable/)
+            * [`SliceInHtmlTable`](https://tinybase.org/api/ui-react-dom/functions/other-components/sliceinhtmltable/)
+        * [Type Aliases](https://tinybase.org/api/ui-react-dom/type-aliases/)
+      * [`ui-react-inspector`](https://tinybase.org/api/ui-react-inspector/)
+      * [`ui-svelte`](https://tinybase.org/api/ui-svelte/)
+      * [`ui-svelte-dom`](https://tinybase.org/api/ui-svelte-dom/)
+      * [`ui-svelte-inspector`](https://tinybase.org/api/ui-svelte-inspector/)
+      * [`middleware`](https://tinybase.org/api/middleware/)
+      * [`schematizer-arktype`](https://tinybase.org/api/schematizer-arktype/)
+      * [`schematizer-effect`](https://tinybase.org/api/schematizer-effect/)
+      * [`schematizer-typebox`](https://tinybase.org/api/schematizer-typebox/)
+      * [`schematizer-valibot`](https://tinybase.org/api/schematizer-valibot/)
+      * [`schematizer-yup`](https://tinybase.org/api/schematizer-yup/)
+      * [`schematizer-zod`](https://tinybase.org/api/schematizer-zod/)
+      * [`schematizers`](https://tinybase.org/api/schematizers/)
+
+
+  * [TinyBase](https://tinybase.org/)
+  * [API](https://tinybase.org/api/)
+  * [`ui-react-dom`](https://tinybase.org/api/ui-react-dom/)
+  * [Functions](https://tinybase.org/api/ui-react-dom/functions/)
+  * [Other components](https://tinybase.org/api/ui-react-dom/functions/other-components/)
+  * [`SliceInHtmlTable`](https://tinybase.org/api/ui-react-dom/functions/other-components/sliceinhtmltable/)
+
+
+# `SliceInHtmlTable`
+The `SliceInHtmlTable` component renders the contents of a [`Slice`](https://tinybase.org/api/indexes/type-aliases/concept/slice/) as an HTML
+<table> element, and registers a listener so that any changes to that result will cause a re-render.
+```
+SliceInHtmlTable[](https://tinybase.org/api/ui-react-dom/functions/other-components/sliceinhtmltable/)(props: (
+  SliceInHtmlTableProps[](https://tinybase.org/api/ui-react-dom/type-aliases/props/sliceinhtmltableprops/) &
+  HtmlTableProps[](https://tinybase.org/api/ui-react-dom/type-aliases/props/htmltableprops/)
+)): ComponentReturnType[](https://tinybase.org/api/ui-react/type-aliases/component/componentreturntype/)
+```
+  
+|   | Type  | Description  |  
+| --- | --- | --- |  
+| `props`  | `( SliceInHtmlTableProps[](https://tinybase.org/api/ui-react-dom/type-aliases/props/sliceinhtmltableprops/) & HtmlTableProps[](https://tinybase.org/api/ui-react-dom/type-aliases/props/htmltableprops/) )`  | The props for this component.  |  
+| returns  | `ComponentReturnType[](https://tinybase.org/api/ui-react/type-aliases/component/componentreturntype/)`  | A rendering of the [`Slice`](https://tinybase.org/api/indexes/type-aliases/concept/slice/) in a <table> element.  |  
+See the [<SliceInHtmlTable /> (React)](https://tinybase.org/demos/ui-components-react/sliceinhtmltable-react/) demo for this component in action:
+![SliceInHtmlTable example](https://tinybase.org/shots/sliceinhtmltable-react-demo.png)
+The component's props identify which [`Slice`](https://tinybase.org/api/indexes/type-aliases/concept/slice/) to render based on [`Index`](https://tinybase.org/api/indexes/type-aliases/concept/index/) [`Id`](https://tinybase.org/api/common/type-aliases/identity/id/), [`Slice`](https://tinybase.org/api/indexes/type-aliases/concept/slice/) [`Id`](https://tinybase.org/api/common/type-aliases/identity/id/), and [`Indexes`](https://tinybase.org/api/indexes/interfaces/indexes/indexes/) object (which is either the default context [`Indexes`](https://tinybase.org/api/indexes/interfaces/indexes/indexes/) object, a named context [`Indexes`](https://tinybase.org/api/indexes/interfaces/indexes/indexes/) object, or an explicit reference).
+This component renders a [`Slice`](https://tinybase.org/api/indexes/type-aliases/concept/slice/) by iterating over its [`Row`](https://tinybase.org/api/store/type-aliases/store/row/) objects. By default the Cells are in turn rendered with the [`CellView`](https://tinybase.org/api/ui-react/functions/store-components/cellview/) component, but you can override this behavior by providing a `component` for each [`Cell`](https://tinybase.org/api/store/type-aliases/store/cell/) in the `customCells` prop. You can pass additional props to that custom component with the `getComponentProps` callback. See the [`CustomCell`](https://tinybase.org/api/ui-react-dom/type-aliases/configuration/customcell/) type for more details.
+This component uses the [`useSliceRowIds`](https://tinybase.org/api/ui-react/functions/indexes-hooks/useslicerowids/) hook under the covers, which means that any changes to the structure of the [`Slice`](https://tinybase.org/api/indexes/type-aliases/concept/slice/) will cause a re-render.
+You can use the `headerRow` and `idColumn` props to control whether labels and [`Ids`](https://tinybase.org/api/common/type-aliases/identity/ids/) appear in a <th> element at the top of the table, and the start of each row.
+## Examples
+This example creates a Provider context into which a default [`Indexes`](https://tinybase.org/api/indexes/interfaces/indexes/indexes/) object is provided. The `SliceInHtmlTable` component within it then renders the [`Slice`](https://tinybase.org/api/indexes/type-aliases/concept/slice/) in a <table> element with a CSS class.
+
+```
+import React from 'react';
+import {createRoot} from 'react-dom/client';
+import {createIndexes, createStore} from 'tinybase';
+import {Provider} from 'tinybase/ui-react';
+import {SliceInHtmlTable} from 'tinybase/ui-react-dom';
+
+const App = ({indexes}) => (
+  <Provider[](https://tinybase.org/api/ui-react/functions/context-components/provider/) indexes={indexes}>
+    <Pane />
+  </Provider[](https://tinybase.org/api/ui-react/functions/context-components/provider/)>
+);
+const Pane = () => (
+  <SliceInHtmlTable[](https://tinybase.org/api/ui-react-dom/functions/other-components/sliceinhtmltable/) indexId="bySpecies" sliceId="dog" className="slice" />
+);
+
+const store = createStore[](https://tinybase.org/api/the-essentials/creating-stores/createstore/)().setTable[](https://tinybase.org/api/store/interfaces/store/store/methods/setter/settable/)('pets', {
+  fido: {species: 'dog'},
+  felix: {species: 'cat'},
+  cujo: {species: 'dog'},
+});
+const indexes = createIndexes[](https://tinybase.org/api/indexes/functions/creation/createindexes/)(store);
+indexes.setIndexDefinition[](https://tinybase.org/api/indexes/interfaces/indexes/indexes/methods/configuration/setindexdefinition/)('bySpecies', 'pets', 'species');
+
+const app = document.createElement('div');
+createRoot(app).render(<App indexes={indexes} />);
+console.log(app.innerHTML);
+// ->
+`
+<table class="slice">
+  <thead>
+    <tr>
+      <th>Id</th>
+      <th>species</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th title="fido">fido</th>
+      <td>dog</td>
+    </tr>
+    <tr>
+      <th title="cujo">cujo</th>
+      <td>dog</td>
+    </tr>
+  </tbody>
+</table>
+`;
+
+```
+
+This example creates a Provider context into which a default [`Indexes`](https://tinybase.org/api/indexes/interfaces/indexes/indexes/) object is provided. The `SliceInHtmlTable` component within it then renders the [`Slice`](https://tinybase.org/api/indexes/type-aliases/concept/slice/) with a custom component and a custom props callback for the `species` [`Cell`](https://tinybase.org/api/store/type-aliases/store/cell/). The header row at the top of the table and the [`Id`](https://tinybase.org/api/common/type-aliases/identity/id/) column at the start of each row is removed.
+
+```
+import React from 'react';
+import {createRoot} from 'react-dom/client';
+import {createIndexes, createStore} from 'tinybase';
+import {CellView, Provider} from 'tinybase/ui-react';
+import {SliceInHtmlTable} from 'tinybase/ui-react-dom';
+
+const App = ({indexes}) => (
+  <Provider[](https://tinybase.org/api/ui-react/functions/context-components/provider/) indexes={indexes}>
+    <Pane />
+  </Provider[](https://tinybase.org/api/ui-react/functions/context-components/provider/)>
+);
+const Pane = () => (
+  <SliceInHtmlTable[](https://tinybase.org/api/ui-react-dom/functions/other-components/sliceinhtmltable/)
+    indexId="bySpecies"
+    sliceId="dog"
+    customCells={customCells}
+    headerRow={false}
+    idColumn={false}
+  />
+);
+
+const FormattedCellView = ({tableId, rowId, cellId, bold}) => (
+  <>
+    {bold ? <b>{rowId}</b> : rowId}:
+    <CellView[](https://tinybase.org/api/ui-react/functions/store-components/cellview/) tableId={tableId} rowId={rowId} cellId={cellId} />
+  </>
+);
+const customCells = {
+  species: {
+    component: FormattedCellView,
+    getComponentProps: (rowId) => ({bold: rowId == 'fido'}),
+  },
+};
+
+const store = createStore[](https://tinybase.org/api/the-essentials/creating-stores/createstore/)().setTable[](https://tinybase.org/api/store/interfaces/store/store/methods/setter/settable/)('pets', {
+  fido: {species: 'dog', color: 'brown'},
+  felix: {species: 'cat'},
+  cujo: {species: 'dog'},
+});
+const indexes = createIndexes[](https://tinybase.org/api/indexes/functions/creation/createindexes/)(store);
+indexes.setIndexDefinition[](https://tinybase.org/api/indexes/interfaces/indexes/indexes/methods/configuration/setindexdefinition/)('bySpecies', 'pets', 'species');
+
+const app = document.createElement('div');
+createRoot(app).render(<App indexes={indexes} />);
+console.log(app.innerHTML);
+// ->
+`
+<table>
+  <tbody>
+    <tr>
+      <td><b>fido</b>:</td>
+    </tr>
+    <tr>
+      <td>cujo:</td>
+    </tr>
+  </tbody>
+</table>
+`;
+
+```
+
+## Since
+v4.1.0
+[GitHub](https://github.com/tinyplex/tinybase)[Bluesky](https://bsky.app/profile/tinybase.bsky.social)[X / Twitter](https://x.com/tinybasejs)[Discord](https://discord.com/invite/mGz3mevwP8)[TinyBase v8.2.0](https://tinybase.org/) © 2022-

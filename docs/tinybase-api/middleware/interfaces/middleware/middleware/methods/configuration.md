@@ -1,0 +1,128 @@
+[![TinyBase logo](https://tinybase.org/favicon.svg)TinyBase](https://tinybase.org/)
+  1. No results found
+
+
+  * [Guides](https://tinybase.org/guides/)
+  * [Demos](https://tinybase.org/demos/)
+  * [API](https://tinybase.org/api/)
+  * [GitHub](https://github.com/tinyplex/tinybase)
+
+
+  * [TinyBase](https://tinybase.org/)
+    * [Guides](https://tinybase.org/guides/)
+    * [Demos](https://tinybase.org/demos/)
+    * [API](https://tinybase.org/api/)
+      * [The Essentials](https://tinybase.org/api/the-essentials/)
+      * [`store`](https://tinybase.org/api/store/)
+      * [`mergeable-store`](https://tinybase.org/api/mergeable-store/)
+      * [`metrics`](https://tinybase.org/api/metrics/)
+      * [`indexes`](https://tinybase.org/api/indexes/)
+      * [`relationships`](https://tinybase.org/api/relationships/)
+      * [`queries`](https://tinybase.org/api/queries/)
+      * [`checkpoints`](https://tinybase.org/api/checkpoints/)
+      * [`common`](https://tinybase.org/api/common/)
+      * [`persisters`](https://tinybase.org/api/persisters/)
+      * [`persister-automerge`](https://tinybase.org/api/persister-automerge/)
+      * [`persister-browser`](https://tinybase.org/api/persister-browser/)
+      * [`persister-cr-sqlite-wasm`](https://tinybase.org/api/persister-cr-sqlite-wasm/)
+      * [`persister-durable-object-sql-storage`](https://tinybase.org/api/persister-durable-object-sql-storage/)
+      * [`persister-durable-object-storage`](https://tinybase.org/api/persister-durable-object-storage/)
+      * [`persister-electric-sql`](https://tinybase.org/api/persister-electric-sql/)
+      * [`persister-expo-sqlite`](https://tinybase.org/api/persister-expo-sqlite/)
+      * [`persister-file`](https://tinybase.org/api/persister-file/)
+      * [`persister-indexed-db`](https://tinybase.org/api/persister-indexed-db/)
+      * [`persister-libsql`](https://tinybase.org/api/persister-libsql/)
+      * [`persister-partykit-client`](https://tinybase.org/api/persister-partykit-client/)
+      * [`persister-partykit-server`](https://tinybase.org/api/persister-partykit-server/)
+      * [`persister-pglite`](https://tinybase.org/api/persister-pglite/)
+      * [`persister-postgres`](https://tinybase.org/api/persister-postgres/)
+      * [`persister-powersync`](https://tinybase.org/api/persister-powersync/)
+      * [`persister-react-native-mmkv`](https://tinybase.org/api/persister-react-native-mmkv/)
+      * [`persister-react-native-sqlite`](https://tinybase.org/api/persister-react-native-sqlite/)
+      * [`persister-remote`](https://tinybase.org/api/persister-remote/)
+      * [`persister-sqlite-bun`](https://tinybase.org/api/persister-sqlite-bun/)
+      * [`persister-sqlite-wasm`](https://tinybase.org/api/persister-sqlite-wasm/)
+      * [`persister-sqlite3`](https://tinybase.org/api/persister-sqlite3/)
+      * [`persister-yjs`](https://tinybase.org/api/persister-yjs/)
+      * [`synchronizers`](https://tinybase.org/api/synchronizers/)
+      * [`synchronizer-broadcast-channel`](https://tinybase.org/api/synchronizer-broadcast-channel/)
+      * [`synchronizer-local`](https://tinybase.org/api/synchronizer-local/)
+      * [`synchronizer-ws-client`](https://tinybase.org/api/synchronizer-ws-client/)
+      * [`synchronizer-ws-server`](https://tinybase.org/api/synchronizer-ws-server/)
+      * [`synchronizer-ws-server-durable-object`](https://tinybase.org/api/synchronizer-ws-server-durable-object/)
+      * [`synchronizer-ws-server-simple`](https://tinybase.org/api/synchronizer-ws-server-simple/)
+      * [`ui-react`](https://tinybase.org/api/ui-react/)
+      * [`ui-react-dom`](https://tinybase.org/api/ui-react-dom/)
+      * [`ui-react-inspector`](https://tinybase.org/api/ui-react-inspector/)
+      * [`ui-svelte`](https://tinybase.org/api/ui-svelte/)
+      * [`ui-svelte-dom`](https://tinybase.org/api/ui-svelte-dom/)
+      * [`ui-svelte-inspector`](https://tinybase.org/api/ui-svelte-inspector/)
+      * [`middleware`](https://tinybase.org/api/middleware/)
+        * [Interfaces](https://tinybase.org/api/middleware/interfaces/)
+          * [`Middleware`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/)
+            * [Getter methods](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/getter/)
+            * [Configuration methods](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/)
+              * [`addWillDelTablesCallback`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwilldeltablescallback/)
+              * [`addWillSetTablesCallback`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwillsettablescallback/)
+              * [`addWillDelTableCallback`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwilldeltablecallback/)
+              * [`addWillSetTableCallback`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwillsettablecallback/)
+              * [`addWillDelRowCallback`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwilldelrowcallback/)
+              * [`addWillSetRowCallback`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwillsetrowcallback/)
+              * [`addWillDelCellCallback`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwilldelcellcallback/)
+              * [`addWillSetCellCallback`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwillsetcellcallback/)
+              * [`addWillDelValuesCallback`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwilldelvaluescallback/)
+              * [`addWillSetValuesCallback`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwillsetvaluescallback/)
+              * [`addWillDelValueCallback`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwilldelvaluecallback/)
+              * [`addWillSetValueCallback`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwillsetvaluecallback/)
+              * [`addWillApplyChangesCallback`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwillapplychangescallback/)
+              * [`addWillSetContentCallback`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwillsetcontentcallback/)
+            * [Lifecycle methods](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/lifecycle/)
+        * [Functions](https://tinybase.org/api/middleware/functions/)
+        * [Type Aliases](https://tinybase.org/api/middleware/type-aliases/)
+      * [`schematizer-arktype`](https://tinybase.org/api/schematizer-arktype/)
+      * [`schematizer-effect`](https://tinybase.org/api/schematizer-effect/)
+      * [`schematizer-typebox`](https://tinybase.org/api/schematizer-typebox/)
+      * [`schematizer-valibot`](https://tinybase.org/api/schematizer-valibot/)
+      * [`schematizer-yup`](https://tinybase.org/api/schematizer-yup/)
+      * [`schematizer-zod`](https://tinybase.org/api/schematizer-zod/)
+      * [`schematizers`](https://tinybase.org/api/schematizers/)
+
+
+  * [TinyBase](https://tinybase.org/)
+  * [API](https://tinybase.org/api/)
+  * [`middleware`](https://tinybase.org/api/middleware/)
+  * [Interfaces](https://tinybase.org/api/middleware/interfaces/)
+  * [`Middleware`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/)
+  * [Configuration methods](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/)
+
+
+# Configuration methods
+## `addWillDelTablesCallback`
+The [`addWillDelTablesCallback`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwilldeltablescallback/) method registers a [`WillDelTablesCallback`](https://tinybase.org/api/middleware/type-aliases/callback/willdeltablescallback/) that will be called before all [`Tables`](https://tinybase.org/api/store/type-aliases/store/tables/) are deleted from the [`Store`](https://tinybase.org/api/the-essentials/creating-stores/store/). [Read more](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwilldeltablescallback/).
+## `addWillSetTablesCallback`
+The [`addWillSetTablesCallback`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwillsettablescallback/) method registers a [`WillSetTablesCallback`](https://tinybase.org/api/middleware/type-aliases/callback/willsettablescallback/) that will be called before [`Tables`](https://tinybase.org/api/store/type-aliases/store/tables/) are set in the [`Store`](https://tinybase.org/api/the-essentials/creating-stores/store/). [Read more](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwillsettablescallback/).
+## `addWillDelTableCallback`
+The [`addWillDelTableCallback`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwilldeltablecallback/) method registers a [`WillDelTableCallback`](https://tinybase.org/api/middleware/type-aliases/callback/willdeltablecallback/) that will be called before any [`Table`](https://tinybase.org/api/store/type-aliases/store/table/) is deleted from the [`Store`](https://tinybase.org/api/the-essentials/creating-stores/store/). [Read more](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwilldeltablecallback/).
+## `addWillSetTableCallback`
+The [`addWillSetTableCallback`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwillsettablecallback/) method registers a [`WillSetTableCallback`](https://tinybase.org/api/middleware/type-aliases/callback/willsettablecallback/) that will be called before any [`Table`](https://tinybase.org/api/store/type-aliases/store/table/) is set in the [`Store`](https://tinybase.org/api/the-essentials/creating-stores/store/). [Read more](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwillsettablecallback/).
+## `addWillDelRowCallback`
+The [`addWillDelRowCallback`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwilldelrowcallback/) method registers a [`WillDelRowCallback`](https://tinybase.org/api/middleware/type-aliases/callback/willdelrowcallback/) that will be called before any [`Row`](https://tinybase.org/api/store/type-aliases/store/row/) is deleted from the [`Store`](https://tinybase.org/api/the-essentials/creating-stores/store/). [Read more](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwilldelrowcallback/).
+## `addWillSetRowCallback`
+The [`addWillSetRowCallback`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwillsetrowcallback/) method registers a [`WillSetRowCallback`](https://tinybase.org/api/middleware/type-aliases/callback/willsetrowcallback/) that will be called before any [`Row`](https://tinybase.org/api/store/type-aliases/store/row/) is set in the [`Store`](https://tinybase.org/api/the-essentials/creating-stores/store/). [Read more](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwillsetrowcallback/).
+## `addWillDelCellCallback`
+The [`addWillDelCellCallback`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwilldelcellcallback/) method registers a [`WillDelCellCallback`](https://tinybase.org/api/middleware/type-aliases/callback/willdelcellcallback/) that will be called before any [`Cell`](https://tinybase.org/api/store/type-aliases/store/cell/) is deleted from the [`Store`](https://tinybase.org/api/the-essentials/creating-stores/store/). [Read more](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwilldelcellcallback/).
+## `addWillSetCellCallback`
+The [`addWillSetCellCallback`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwillsetcellcallback/) method registers a [`WillSetCellCallback`](https://tinybase.org/api/middleware/type-aliases/callback/willsetcellcallback/) that will be called before any [`Cell`](https://tinybase.org/api/store/type-aliases/store/cell/) is set in the [`Store`](https://tinybase.org/api/the-essentials/creating-stores/store/). [Read more](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwillsetcellcallback/).
+## `addWillDelValuesCallback`
+The [`addWillDelValuesCallback`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwilldelvaluescallback/) method registers a [`WillDelValuesCallback`](https://tinybase.org/api/middleware/type-aliases/callback/willdelvaluescallback/) that will be called before all [`Values`](https://tinybase.org/api/store/type-aliases/store/values/) are deleted from the [`Store`](https://tinybase.org/api/the-essentials/creating-stores/store/). [Read more](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwilldelvaluescallback/).
+## `addWillSetValuesCallback`
+The [`addWillSetValuesCallback`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwillsetvaluescallback/) method registers a [`WillSetValuesCallback`](https://tinybase.org/api/middleware/type-aliases/callback/willsetvaluescallback/) that will be called before [`Values`](https://tinybase.org/api/store/type-aliases/store/values/) are set in the [`Store`](https://tinybase.org/api/the-essentials/creating-stores/store/). [Read more](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwillsetvaluescallback/).
+## `addWillDelValueCallback`
+The [`addWillDelValueCallback`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwilldelvaluecallback/) method registers a [`WillDelValueCallback`](https://tinybase.org/api/middleware/type-aliases/callback/willdelvaluecallback/) that will be called before any [`Value`](https://tinybase.org/api/store/type-aliases/store/value/) is deleted from the [`Store`](https://tinybase.org/api/the-essentials/creating-stores/store/). [Read more](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwilldelvaluecallback/).
+## `addWillSetValueCallback`
+The [`addWillSetValueCallback`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwillsetvaluecallback/) method registers a [`WillSetValueCallback`](https://tinybase.org/api/middleware/type-aliases/callback/willsetvaluecallback/) that will be called before any [`Value`](https://tinybase.org/api/store/type-aliases/store/value/) is set in the [`Store`](https://tinybase.org/api/the-essentials/creating-stores/store/). [Read more](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwillsetvaluecallback/).
+## `addWillApplyChangesCallback`
+The [`addWillApplyChangesCallback`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwillapplychangescallback/) method registers a [`WillApplyChangesCallback`](https://tinybase.org/api/middleware/type-aliases/callback/willapplychangescallback/) that will be called before [`Changes`](https://tinybase.org/api/store/type-aliases/transaction/changes/) are applied to the [`Store`](https://tinybase.org/api/the-essentials/creating-stores/store/) via the [`applyChanges`](https://tinybase.org/api/store/interfaces/store/store/methods/setter/applychanges/) method. [Read more](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwillapplychangescallback/).
+## `addWillSetContentCallback`
+The [`addWillSetContentCallback`](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwillsetcontentcallback/) method registers a [`WillSetContentCallback`](https://tinybase.org/api/middleware/type-aliases/callback/willsetcontentcallback/) that will be called before [`Content`](https://tinybase.org/api/store/type-aliases/store/content/) is set in the [`Store`](https://tinybase.org/api/the-essentials/creating-stores/store/). [Read more](https://tinybase.org/api/middleware/interfaces/middleware/middleware/methods/configuration/addwillsetcontentcallback/).
+[GitHub](https://github.com/tinyplex/tinybase)[Bluesky](https://bsky.app/profile/tinybase.bsky.social)[X / Twitter](https://x.com/tinybasejs)[Discord](https://discord.com/invite/mGz3mevwP8)[TinyBase v8.2.0](https://tinybase.org/) © 2022-

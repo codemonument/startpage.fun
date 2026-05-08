@@ -1,0 +1,227 @@
+[![TinyBase logo](https://tinybase.org/favicon.svg)TinyBase](https://tinybase.org/)
+  1. No results found
+
+
+  * [Guides](https://tinybase.org/guides/)
+  * [Demos](https://tinybase.org/demos/)
+  * [API](https://tinybase.org/api/)
+  * [GitHub](https://github.com/tinyplex/tinybase)
+
+
+  * [TinyBase](https://tinybase.org/)
+    * [Guides](https://tinybase.org/guides/)
+    * [Demos](https://tinybase.org/demos/)
+    * [API](https://tinybase.org/api/)
+      * [The Essentials](https://tinybase.org/api/the-essentials/)
+      * [`store`](https://tinybase.org/api/store/)
+      * [`mergeable-store`](https://tinybase.org/api/mergeable-store/)
+      * [`metrics`](https://tinybase.org/api/metrics/)
+      * [`indexes`](https://tinybase.org/api/indexes/)
+      * [`relationships`](https://tinybase.org/api/relationships/)
+      * [`queries`](https://tinybase.org/api/queries/)
+      * [`checkpoints`](https://tinybase.org/api/checkpoints/)
+      * [`common`](https://tinybase.org/api/common/)
+      * [`persisters`](https://tinybase.org/api/persisters/)
+      * [`persister-automerge`](https://tinybase.org/api/persister-automerge/)
+      * [`persister-browser`](https://tinybase.org/api/persister-browser/)
+      * [`persister-cr-sqlite-wasm`](https://tinybase.org/api/persister-cr-sqlite-wasm/)
+      * [`persister-durable-object-sql-storage`](https://tinybase.org/api/persister-durable-object-sql-storage/)
+      * [`persister-durable-object-storage`](https://tinybase.org/api/persister-durable-object-storage/)
+      * [`persister-electric-sql`](https://tinybase.org/api/persister-electric-sql/)
+      * [`persister-expo-sqlite`](https://tinybase.org/api/persister-expo-sqlite/)
+      * [`persister-file`](https://tinybase.org/api/persister-file/)
+      * [`persister-indexed-db`](https://tinybase.org/api/persister-indexed-db/)
+      * [`persister-libsql`](https://tinybase.org/api/persister-libsql/)
+      * [`persister-partykit-client`](https://tinybase.org/api/persister-partykit-client/)
+      * [`persister-partykit-server`](https://tinybase.org/api/persister-partykit-server/)
+      * [`persister-pglite`](https://tinybase.org/api/persister-pglite/)
+      * [`persister-postgres`](https://tinybase.org/api/persister-postgres/)
+      * [`persister-powersync`](https://tinybase.org/api/persister-powersync/)
+      * [`persister-react-native-mmkv`](https://tinybase.org/api/persister-react-native-mmkv/)
+      * [`persister-react-native-sqlite`](https://tinybase.org/api/persister-react-native-sqlite/)
+      * [`persister-remote`](https://tinybase.org/api/persister-remote/)
+      * [`persister-sqlite-bun`](https://tinybase.org/api/persister-sqlite-bun/)
+      * [`persister-sqlite-wasm`](https://tinybase.org/api/persister-sqlite-wasm/)
+      * [`persister-sqlite3`](https://tinybase.org/api/persister-sqlite3/)
+      * [`persister-yjs`](https://tinybase.org/api/persister-yjs/)
+      * [`synchronizers`](https://tinybase.org/api/synchronizers/)
+      * [`synchronizer-broadcast-channel`](https://tinybase.org/api/synchronizer-broadcast-channel/)
+      * [`synchronizer-local`](https://tinybase.org/api/synchronizer-local/)
+      * [`synchronizer-ws-client`](https://tinybase.org/api/synchronizer-ws-client/)
+      * [`synchronizer-ws-server`](https://tinybase.org/api/synchronizer-ws-server/)
+      * [`synchronizer-ws-server-durable-object`](https://tinybase.org/api/synchronizer-ws-server-durable-object/)
+      * [`synchronizer-ws-server-simple`](https://tinybase.org/api/synchronizer-ws-server-simple/)
+      * [`ui-react`](https://tinybase.org/api/ui-react/)
+        * [Functions](https://tinybase.org/api/ui-react/functions/)
+          * [Store components](https://tinybase.org/api/ui-react/functions/store-components/)
+            * [`TablesView`](https://tinybase.org/api/ui-react/functions/store-components/tablesview/)
+            * [`TableView`](https://tinybase.org/api/ui-react/functions/store-components/tableview/)
+            * [`SortedTableView`](https://tinybase.org/api/ui-react/functions/store-components/sortedtableview/)
+            * [`RowView`](https://tinybase.org/api/ui-react/functions/store-components/rowview/)
+            * [`CellView`](https://tinybase.org/api/ui-react/functions/store-components/cellview/)
+            * [`ValuesView`](https://tinybase.org/api/ui-react/functions/store-components/valuesview/)
+            * [`ValueView`](https://tinybase.org/api/ui-react/functions/store-components/valueview/)
+          * [Queries components](https://tinybase.org/api/ui-react/functions/queries-components/)
+          * [Checkpoints hooks](https://tinybase.org/api/ui-react/functions/checkpoints-hooks/)
+          * [Indexes hooks](https://tinybase.org/api/ui-react/functions/indexes-hooks/)
+          * [Metrics hooks](https://tinybase.org/api/ui-react/functions/metrics-hooks/)
+          * [Persister hooks](https://tinybase.org/api/ui-react/functions/persister-hooks/)
+          * [Queries hooks](https://tinybase.org/api/ui-react/functions/queries-hooks/)
+          * [Relationships hooks](https://tinybase.org/api/ui-react/functions/relationships-hooks/)
+          * [State hooks](https://tinybase.org/api/ui-react/functions/state-hooks/)
+          * [Store hooks](https://tinybase.org/api/ui-react/functions/store-hooks/)
+          * [Synchronizer hooks](https://tinybase.org/api/ui-react/functions/synchronizer-hooks/)
+          * [Checkpoints components](https://tinybase.org/api/ui-react/functions/checkpoints-components/)
+          * [Context components](https://tinybase.org/api/ui-react/functions/context-components/)
+          * [Indexes components](https://tinybase.org/api/ui-react/functions/indexes-components/)
+          * [Metrics components](https://tinybase.org/api/ui-react/functions/metrics-components/)
+          * [Relationships components](https://tinybase.org/api/ui-react/functions/relationships-components/)
+        * [Type Aliases](https://tinybase.org/api/ui-react/type-aliases/)
+      * [`ui-react-dom`](https://tinybase.org/api/ui-react-dom/)
+      * [`ui-react-inspector`](https://tinybase.org/api/ui-react-inspector/)
+      * [`ui-svelte`](https://tinybase.org/api/ui-svelte/)
+      * [`ui-svelte-dom`](https://tinybase.org/api/ui-svelte-dom/)
+      * [`ui-svelte-inspector`](https://tinybase.org/api/ui-svelte-inspector/)
+      * [`middleware`](https://tinybase.org/api/middleware/)
+      * [`schematizer-arktype`](https://tinybase.org/api/schematizer-arktype/)
+      * [`schematizer-effect`](https://tinybase.org/api/schematizer-effect/)
+      * [`schematizer-typebox`](https://tinybase.org/api/schematizer-typebox/)
+      * [`schematizer-valibot`](https://tinybase.org/api/schematizer-valibot/)
+      * [`schematizer-yup`](https://tinybase.org/api/schematizer-yup/)
+      * [`schematizer-zod`](https://tinybase.org/api/schematizer-zod/)
+      * [`schematizers`](https://tinybase.org/api/schematizers/)
+
+
+  * [TinyBase](https://tinybase.org/)
+  * [API](https://tinybase.org/api/)
+  * [`ui-react`](https://tinybase.org/api/ui-react/)
+  * [Functions](https://tinybase.org/api/ui-react/functions/)
+  * [Store components](https://tinybase.org/api/ui-react/functions/store-components/)
+  * [`RowView`](https://tinybase.org/api/ui-react/functions/store-components/rowview/)
+
+
+# `RowView`
+The `RowView` component renders the contents of a single [`Row`](https://tinybase.org/api/store/type-aliases/store/row/) in a given [`Table`](https://tinybase.org/api/store/type-aliases/store/table/), and registers a listener so that any changes to that result will cause a re-render.
+
+```
+RowView[](https://tinybase.org/api/ui-react/functions/store-components/rowview/)(props: RowProps[](https://tinybase.org/api/ui-react/type-aliases/props/rowprops/)): ComponentReturnType[](https://tinybase.org/api/ui-react/type-aliases/component/componentreturntype/)
+```
+  
+|   | Type  | Description  |  
+| --- | --- | --- |  
+| `props`  | `RowProps[](https://tinybase.org/api/ui-react/type-aliases/props/rowprops/)`  | The props for this component.  |  
+| returns  | `ComponentReturnType[](https://tinybase.org/api/ui-react/type-aliases/component/componentreturntype/)`  | A rendering of the [`Row`](https://tinybase.org/api/store/type-aliases/store/row/), or nothing, if not present.  |  
+The component's props identify which [`Row`](https://tinybase.org/api/store/type-aliases/store/row/) to render based on [`Table`](https://tinybase.org/api/store/type-aliases/store/table/) [`Id`](https://tinybase.org/api/common/type-aliases/identity/id/), [`Row`](https://tinybase.org/api/store/type-aliases/store/row/) [`Id`](https://tinybase.org/api/common/type-aliases/identity/id/), and [`Store`](https://tinybase.org/api/the-essentials/creating-stores/store/) (which is either the default context [`Store`](https://tinybase.org/api/the-essentials/creating-stores/store/), a named context [`Store`](https://tinybase.org/api/the-essentials/creating-stores/store/), or an explicit reference).
+This component renders a [`Row`](https://tinybase.org/api/store/type-aliases/store/row/) by iterating over its [`Cell`](https://tinybase.org/api/store/type-aliases/store/cell/) values. By default these are in turn rendered with the [`CellView`](https://tinybase.org/api/ui-react/functions/store-components/cellview/) component, but you can override this behavior by providing a `cellComponent` prop, a custom component of your own that will render a [`Cell`](https://tinybase.org/api/store/type-aliases/store/cell/) based on [`CellProps`](https://tinybase.org/api/ui-react/type-aliases/props/cellprops/). You can also pass additional props to your custom component with the `getCellComponentProps` callback prop.
+You can create your own RowView-like component to customize the way that a [`Row`](https://tinybase.org/api/store/type-aliases/store/row/) is rendered: see the [`TableView`](https://tinybase.org/api/ui-react/functions/store-components/tableview/) component for more details.
+Since v4.1.0, you can use the `customCellIds` prop if you want to render a prescribed set of the [`Row`](https://tinybase.org/api/store/type-aliases/store/row/)'s Cells in a given order. Otherwise, this component uses the [`useCellIds`](https://tinybase.org/api/ui-react/functions/store-hooks/usecellids/) hook under the covers, which means that any changes to the structure of the [`Row`](https://tinybase.org/api/store/type-aliases/store/row/) will cause a re-render.
+## Examples
+This example creates a [`Store`](https://tinybase.org/api/the-essentials/creating-stores/store/) outside the application, which is used in the `RowView` component by reference. A change to the data in the [`Store`](https://tinybase.org/api/the-essentials/creating-stores/store/) re-renders the component.
+
+```
+import React from 'react';
+import {createRoot} from 'react-dom/client';
+import {createStore} from 'tinybase';
+import {RowView} from 'tinybase/ui-react';
+
+const store = createStore[](https://tinybase.org/api/the-essentials/creating-stores/createstore/)().setRow[](https://tinybase.org/api/the-essentials/setting-data/setrow/)('pets', 'fido', {species: 'dog'});
+const App = () => (
+  <div>
+    <RowView[](https://tinybase.org/api/ui-react/functions/store-components/rowview/) tableId="pets" rowId="fido" store={store} separator="/" />
+  </div>
+);
+
+const app = document.createElement('div');
+createRoot(app).render(<App />);
+console.log(app.innerHTML);
+// -> '<div>dog</div>'
+
+store.setCell[](https://tinybase.org/api/the-essentials/setting-data/setcell/)('pets', 'fido', 'color', 'walnut');
+console.log(app.innerHTML);
+// -> '<div>dog/walnut</div>'
+
+```
+
+This example creates a Provider context into which a default [`Store`](https://tinybase.org/api/the-essentials/creating-stores/store/) is provided. The `RowView` component within it then renders the [`Row`](https://tinybase.org/api/store/type-aliases/store/row/) for a custom set of [`Cell`](https://tinybase.org/api/store/type-aliases/store/cell/) [`Ids`](https://tinybase.org/api/common/type-aliases/identity/ids/) (and rendered with [`Ids`](https://tinybase.org/api/common/type-aliases/identity/ids/) for readability).
+
+```
+import React from 'react';
+import {createRoot} from 'react-dom/client';
+import {createStore} from 'tinybase';
+import {Provider, RowView} from 'tinybase/ui-react';
+
+const App = ({store}) => (
+  <Provider[](https://tinybase.org/api/ui-react/functions/context-components/provider/) store={store}>
+    <Pane />
+  </Provider[](https://tinybase.org/api/ui-react/functions/context-components/provider/)>
+);
+const customCellIds = ['color', 'species'];
+const Pane = () => (
+  <div>
+    <RowView[](https://tinybase.org/api/ui-react/functions/store-components/rowview/)
+      tableId="pets"
+      rowId="fido"
+      customCellIds={customCellIds}
+      debugIds={true}
+    />
+  </div>
+);
+
+const store = createStore[](https://tinybase.org/api/the-essentials/creating-stores/createstore/)().setRow[](https://tinybase.org/api/the-essentials/setting-data/setrow/)('pets', 'fido', {
+  species: 'dog',
+  color: 'walnut',
+  legs: 4,
+});
+const app = document.createElement('div');
+createRoot(app).render(<App store={store} />);
+console.log(app.innerHTML);
+// -> '<div>fido:{color:{walnut}species:{dog}}</div>'
+
+```
+
+This example creates a Provider context into which a default [`Store`](https://tinybase.org/api/the-essentials/creating-stores/store/) is provided. The `RowView` component within it then renders the [`Row`](https://tinybase.org/api/store/type-aliases/store/row/) with a custom [`Cell`](https://tinybase.org/api/store/type-aliases/store/cell/) component and a custom props callback.
+
+```
+import React from 'react';
+import {createRoot} from 'react-dom/client';
+import {createStore} from 'tinybase';
+import {CellView, Provider, RowView} from 'tinybase/ui-react';
+
+const App = ({store}) => (
+  <Provider[](https://tinybase.org/api/ui-react/functions/context-components/provider/) store={store}>
+    <Pane />
+  </Provider[](https://tinybase.org/api/ui-react/functions/context-components/provider/)>
+);
+const getBoldProp = (cellId) => ({bold: cellId == 'species'});
+const Pane = () => (
+  <div>
+    <RowView[](https://tinybase.org/api/ui-react/functions/store-components/rowview/)
+      tableId="pets"
+      rowId="fido"
+      cellComponent={FormattedCellView}
+      getCellComponentProps={getBoldProp}
+    />
+  </div>
+);
+const FormattedCellView = ({tableId, rowId, cellId, bold}) => (
+  <span>
+    {bold ? <b>{cellId}</b> : cellId}
+    {': '}
+    <CellView[](https://tinybase.org/api/ui-react/functions/store-components/cellview/) tableId={tableId} rowId={rowId} cellId={cellId} />
+  </span>
+);
+
+const store = createStore[](https://tinybase.org/api/the-essentials/creating-stores/createstore/)().setRow[](https://tinybase.org/api/the-essentials/setting-data/setrow/)('pets', 'fido', {
+  species: 'dog',
+  color: 'walnut',
+});
+const app = document.createElement('div');
+createRoot(app).render(<App store={store} />);
+console.log(app.innerHTML);
+// -> '<div><span><b>species</b>: dog</span><span>color: walnut</span></div>'
+
+```
+
+## Since
+v1.0.0
+[GitHub](https://github.com/tinyplex/tinybase)[Bluesky](https://bsky.app/profile/tinybase.bsky.social)[X / Twitter](https://x.com/tinybasejs)[Discord](https://discord.com/invite/mGz3mevwP8)[TinyBase v8.2.0](https://tinybase.org/) © 2022-
