@@ -1,4 +1,5 @@
 import * as v from 'valibot';
+import { createDialIconSelection } from './icon-assets';
 import { parseLocalLibrary, type LocalLibrary } from './library';
 
 const starterDialSchema = v.object({
@@ -67,7 +68,8 @@ export function buildLibraryFromStarterTemplate(templateId: StarterTemplateId): 
     dials: space.dials.map((dial, dialIndex) => ({
       id: `${template.id}-dial-${spaceIndex + 1}-${dialIndex + 1}`,
       title: dial.title,
-      url: dial.url
+      url: dial.url,
+      icon: createDialIconSelection(dial.url, dial.title)
     }))
   }));
 

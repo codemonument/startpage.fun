@@ -16,6 +16,7 @@
   "dependencies": {
     "@kobalte/core": "^0.13.11",
     "dexie": "^4.2.1",
+    "fuzzysort": "^3.1.0",
     "solid-js": "^1.9.10",
     "valibot": "^1.1.0",
     "workbox-window": "^7.3.0"

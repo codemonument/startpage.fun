@@ -1,11 +1,13 @@
 import { appDb } from './app-db';
 import type { StartupSnapshot } from '@/app/bootstrap';
+import type { DialDraft } from '@/app/dial-editor';
 import { parseLocalLibrary, type LocalLibrary } from '@/app/library';
 import type { StartPageSettings } from '@/app/settings';
 
 const SETTINGS_KEY = 'settings';
 const LIBRARY_KEY = 'library';
 const SHELL_READY_KEY = 'shell-ready';
+const dialDraftKey = (dialId: string) => `dial-draft:${dialId}`;
 
 export async function loadStartupSnapshot(): Promise<StartupSnapshot> {
   const [settingsRow, libraryRow] = await Promise.all([
@@ -34,6 +36,22 @@ export async function saveLibrary(library: LocalLibrary): Promise<void> {
     key: LIBRARY_KEY,
     value: library
   });
+}
+
+export async function loadDialDraft(dialId: string): Promise<DialDraft | null> {
+  const row = await appDb.meta.get(dialDraftKey(dialId));
+  return (row?.value as DialDraft | undefined) ?? null;
+}
+
+export async function saveDialDraft(dialId: string, draft: DialDraft): Promise<void> {
+  await appDb.meta.put({
+    key: dialDraftKey(dialId),
+    value: draft
+  });
+}
+
+export async function deleteDialDraft(dialId: string): Promise<void> {
+  await appDb.meta.delete(dialDraftKey(dialId));
 }
 
 export async function markShellReady(): Promise<void> {

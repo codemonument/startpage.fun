@@ -26,7 +26,9 @@ describe('createShellModel', () => {
         reopenBehavior: 'last-active-space',
         defaultSpaceId: null,
         spaceBarOverflow: 'multi-row',
-        addTileVisibility: 'always'
+        spaceBarRowCap: 2,
+        addTileVisibility: 'always',
+        trashRetentionHours: null
       },
       library: null,
       activeSpaceId: null,
@@ -66,7 +68,9 @@ describe('createShellModel', () => {
         reopenBehavior: 'default-space',
         defaultSpaceId: 'space-2',
         spaceBarOverflow: 'multi-row',
-        addTileVisibility: 'always'
+        spaceBarRowCap: 2,
+        addTileVisibility: 'always',
+        trashRetentionHours: null
       },
       library: {
         version: 1,

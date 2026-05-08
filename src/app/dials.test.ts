@@ -54,6 +54,28 @@ describe('addDialToActiveSpace', () => {
 
     expect(nextLibrary.spaces[0]?.dials.map((dial) => dial.title)).toEqual(['GitHub', 'example.com']);
   });
+
+  it('always inserts the new Dial at the end of the active Space content', () => {
+    const nextLibrary = addDialToActiveSpace(
+      {
+        version: 1,
+        activeSpaceId: 'space-1',
+        spaces: [
+          {
+            id: 'space-1',
+            name: 'Home',
+            dials: [
+              { id: 'dial-1', title: 'GitHub', url: 'https://github.com/' },
+              { id: 'dial-2', title: 'Linear', url: 'https://linear.app/' }
+            ]
+          }
+        ]
+      },
+      { url: 'example.com/tools', title: '' }
+    );
+
+    expect(nextLibrary.spaces[0]?.dials.map((dial) => dial.id)).toEqual(['dial-1', 'dial-2', 'dial-3']);
+  });
 });
 
 describe('resolveLaunchTarget', () => {

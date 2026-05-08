@@ -1,3 +1,4 @@
+import { createDialIconSelection } from './icon-assets';
 import { parseLocalLibrary, type Dial, type LocalLibrary } from './library';
 import type { StartPageSettings } from './settings';
 
@@ -26,7 +27,8 @@ export function createDialFromInput(input: DialInput, id: string): Dial {
   return {
     id,
     title,
-    url: normalizedUrl
+    url: normalizedUrl,
+    icon: createDialIconSelection(normalizedUrl, title)
   };
 }
 

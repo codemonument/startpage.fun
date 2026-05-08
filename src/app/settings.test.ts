@@ -17,7 +17,9 @@ describe('normalizeStartPageSettings', () => {
       reopenBehavior: 'last-active-space',
       defaultSpaceId: null,
       spaceBarOverflow: 'multi-row',
-      addTileVisibility: 'empty-only'
+      spaceBarRowCap: 2,
+      addTileVisibility: 'empty-only',
+      trashRetentionHours: null
     });
   });
 });
