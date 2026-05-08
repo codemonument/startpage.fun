@@ -1,0 +1,188 @@
+docs/tinybase-guides/synchronization.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-52
+docs/tinybase-guides/using-metrics.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-52
+docs/tinybase-guides/using-checkpoints/building-a-ui-with-checkpoints.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-187
+docs/tinybase-guides/building-uis-with-react/using-react-components.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-166
+docs/tinybase-guides/how-tinybase-is-built/documentation.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-52
+docs/tinybase-guides/integrations/cloudflare-durable-objects.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-243
+docs/tinybase-guides/schemas/mutating-data-with-listeners.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-109
+docs/tinybase-guides/the-basics/importing-tinybase.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-164
+docs/tinybase-guides/using-relationships/an-intro-to-relationships.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-117
+docs/tinybase-guides/schemas-and-persistence/persisting-data.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-155
+docs/tinybase-guides/using-indexes.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-52
+docs/tinybase-guides/persistence.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-55
+docs/tinybase-guides/releases.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-1622
+docs/tinybase-guides/persistence/custom-persistence.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-95
+docs/tinybase-guides/using-indexes/an-intro-to-indexes.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-120
+docs/tinybase-guides/using-metrics/an-intro-to-metrics.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-87
+docs/tinybase-guides/schemas.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-55
+docs/tinybase-guides/building-uis-with-react/using-context.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-160
+docs/tinybase-guides/using-relationships.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-52
+docs/tinybase-guides/using-metrics/building-a-ui-with-metrics.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-171
+docs/tinybase-guides/using-queries/an-intro-to-queries.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-105
+docs/tinybase-guides/the-basics.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-72
+docs/tinybase-guides/using-indexes/building-a-ui-with-indexes.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-201
+docs/tinybase-guides/the-basics/reading-from-stores.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-186
+docs/tinybase-guides/using-indexes/advanced-index-definition.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-126
+docs/tinybase-guides/how-tinybase-is-built/testing.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-83
+docs/tinybase-guides/synchronization/using-a-synchronizer.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-239
+docs/tinybase-guides/schemas/using-schematizers.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-222
+docs/tinybase-guides/persistence/database-persistence.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-443
+docs/tinybase-guides/schemas-and-persistence/synchronizing-data.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-157
+docs/tinybase-guides/building-uis-with-react/getting-started-with-ui-react.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-89
+docs/tinybase-guides/using-middleware.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-214
+docs/tinybase-guides/persistence/third-party-crdt-persistence.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-157
+docs/tinybase-guides/integrations.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-46
+docs/tinybase-guides/how-tinybase-is-built/credits.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-79
+docs/tinybase-guides/building-uis-with-svelte/using-context.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-101
+docs/tinybase-guides/synchronization/using-a-mergeablestore.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-147
+docs/tinybase-guides/agents-guide/LICENSE.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-8
+docs/tinybase-guides/relationships-and-checkpoints/using-checkpoints.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-98
+docs/tinybase-guides/building-uis-with-react/using-react-dom-components.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-73
+docs/tinybase-guides/persistence/an-intro-to-persistence.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-155
+docs/tinybase-guides/the-basics/getting-started.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-136
+docs/tinybase-guides/the-basics/using-middleware.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-8
+docs/tinybase-guides/faq.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-58
+docs/tinybase-guides/building-uis-with-svelte/using-reactive-functions.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-121
+docs/tinybase-guides/inspecting-data.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-109
+docs/tinybase-guides/the-basics/creating-a-store.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-73
+docs/tinybase-guides/building-uis-with-svelte.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-59
+docs/tinybase-guides/the-basics/architectural-options.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-132
+docs/tinybase-guides/making-queries/using-queries.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-105
+docs/tinybase-guides/how-tinybase-is-built/architecture.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-66
+docs/tinybase-guides/using-checkpoints.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-49
+docs/tinybase-guides/using-queries/building-a-ui-with-queries.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-212
+docs/tinybase-guides/making-queries/tinyql.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-484
+docs/tinybase-guides/using-checkpoints/an-intro-to-checkpoints.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-98
+docs/tinybase-guides/building-uis-with-react/using-react-hooks.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-205
+docs/tinybase-guides/index.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-151
+docs/tinybase-guides/schemas/schema-based-typing.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-325
+docs/tinybase-guides/building-uis-with-svelte/using-svelte-components.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-112
+docs/tinybase-guides/how-tinybase-is-built.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-61
+docs/tinybase-guides/the-basics/tinybase-and-typescript.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-93
+docs/tinybase-guides/the-basics/writing-to-stores.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-151
+docs/tinybase-guides/building-uis-with-svelte/getting-started-with-ui-svelte.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-68
+docs/tinybase-guides/how-tinybase-is-built/how-the-demos-work.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-54
+docs/tinybase-guides/using-queries/tinyql.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-484
+docs/tinybase-guides/the-basics/transactions.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-197
+docs/tinybase-guides/using-queries.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-52
+docs/tinybase-guides/using-metrics/advanced-metric-definition.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-135
+docs/tinybase-guides/building-uis.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-59
+docs/tinybase-guides/using-relationships/building-a-ui-with-relationships.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-199
+docs/tinybase-guides/agents-guide.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-507
+docs/tinybase-guides/using-relationships/advanced-relationship-definitions.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-83
+docs/tinybase-guides/metrics-and-indexes/using-indexes.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-120
+docs/tinybase-guides/how-tinybase-is-built/developing-tinybase.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-171
+docs/tinybase-guides/agents-guide/CONTRIBUTING_md.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-8
+docs/tinybase-guides/the-basics/listening-to-stores.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-179
+docs/tinybase-guides/building-uis-with-svelte/using-svelte-dom-components.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-75
+docs/tinybase-guides/schemas/using-schemas.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-154
+docs/tinybase-guides/building-uis-with-react.md
+  s_212b701e50c242::t_2e2101bd7d1d6d 1-59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "e287e179a98a43e081e6a0e76b3af8438c28c439",
+  "prompts": {
+    "65a6d03cab00bed1": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019df325-3942-768a-bccb-5df668f3e999",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Benjamin Jesuiter <bjesuiter@gmail.com>",
+      "total_additions": 3249,
+      "total_deletions": 397,
+      "accepted_lines": 3047,
+      "overriden_lines": 0
+    }
+  },
+  "sessions": {
+    "s_212b701e50c242": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019e06fd-3935-75f9-bfbb-56f29502fa31",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Benjamin Jesuiter <bjesuiter@gmail.com>"
+    }
+  }
+}
