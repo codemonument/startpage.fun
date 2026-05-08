@@ -1,0 +1,23 @@
+docs/tinybase-guides/building-uis-with-solid.md
+  s_212b701e50c242::t_f77837bb02c542 3
+  s_212b701e50c242::t_bbb5073ee9d8a3 1-2,4-59,61-143,150-307
+  s_212b701e50c242::t_89f5b18ad7b4a5 60,144-149
+docs/tinybase-guides/building-uis.md
+  s_212b701e50c242::t_6586fdb1d40a52 1,3,5,7-12,14,16,18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "4212c606d378055d2db27ce55bd9962e58d0b95a",
+  "prompts": {},
+  "sessions": {
+    "s_212b701e50c242": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019e06fd-3935-75f9-bfbb-56f29502fa31",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Benjamin Jesuiter <bjesuiter@gmail.com>"
+    }
+  }
+}
