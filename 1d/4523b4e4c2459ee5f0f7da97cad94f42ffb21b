@@ -1,0 +1,2206 @@
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/listener/addcelllistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-228
+docs/tinybase-api/schematizer-typebox.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-88
+docs/tinybase-api/persister-react-native-sqlite/interfaces/persister/reactnativesqlitepersister/methods/lifecycle/getstatus.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/mergeable-store/type-aliases/syncing/contenthashes.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-100
+docs/tinybase-api/persister-durable-object-storage/interfaces/persister/durableobjectstoragepersister/methods/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/persister-electric-sql/interfaces/persister/electricsqlpersister/methods/load/stopautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/middleware/interfaces.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-87
+docs/tinybase-api/persister-durable-object-storage/interfaces/persister/durableobjectstoragepersister/methods/lifecycle/startautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/persister-automerge/interfaces/persister/automergepersister/methods/save/stopautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/persister-powersync/interfaces/persister/powersyncpersister/methods/lifecycle/startautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/persister-sqlite-wasm/interfaces/persister/sqlitewasmpersister/methods/development.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-91
+docs/tinybase-api/persister-browser/interfaces/persister/sessionpersister/methods/lifecycle/getstatus.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-122
+docs/tinybase-api/persister-sqlite3/interfaces/persister/sqlite3persister/methods/getter.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/persister-file/interfaces/persister/filepersister/methods/lifecycle/stopautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-133
+docs/tinybase-api/middleware/type-aliases/callback/willsettablescallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-109
+docs/tinybase-api/persister-file/interfaces/persister/filepersister/methods/getter.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/persister-cr-sqlite-wasm/interfaces.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-89
+docs/tinybase-api/persister-durable-object-storage/interfaces/persister/durableobjectstoragepersister/methods/save/stopautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/metrics/functions.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-83
+docs/tinybase-api/persister-browser/interfaces/persister/opfspersister/methods/load/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-151
+docs/tinybase-api/common/type-aliases/parameter.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-88
+docs/tinybase-api/persister-durable-object-storage/interfaces/persister/durableobjectstoragepersister/methods/lifecycle/stopautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-133
+docs/tinybase-api/persister-postgres/interfaces/persister/postgrespersister/methods/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/persister-partykit-client/interfaces/persister/partykitpersister/methods/load/isautoloading.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-126
+docs/tinybase-api/persister-sqlite-wasm/interfaces/persister/sqlitewasmpersister/methods/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/persister-cr-sqlite-wasm/interfaces/persister/crsqlitewasmpersister/methods/listener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/persister-browser/interfaces/persister/sessionpersister/methods/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-102
+docs/tinybase-api/persister-postgres/interfaces/persister/postgrespersister/methods/development.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-91
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/gettablecellids.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-165
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/listener/addsortedrowidslistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-371
+docs/tinybase-api/synchronizers.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-101
+docs/tinybase-api/persister-libsql/interfaces/persister/libsqlpersister/methods/development.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-91
+docs/tinybase-api/persister-libsql/interfaces/persister/libsqlpersister/methods/getter.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/common/functions/convenience.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-89
+docs/tinybase-api/persister-react-native-mmkv/interfaces/persister/reactnativemmkvpersister/methods/load/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-149
+docs/tinybase-api/persister-cr-sqlite-wasm/interfaces/persister/crsqlitewasmpersister/methods/getter/getdb.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-121
+docs/tinybase-api/persister-browser/interfaces/persister/opfspersister/methods/lifecycle/startautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-134
+docs/tinybase-api/persister-electric-sql/interfaces/persister/electricsqlpersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-127
+docs/tinybase-api/mergeable-store/type-aliases/syncing/cellhashes.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-100
+docs/tinybase-api/persister-partykit-client/type-aliases.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-83
+docs/tinybase-api/middleware.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-107
+docs/tinybase-api/middleware/interfaces/middleware/middleware/methods/configuration/addwillsetcontentcallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-139
+docs/tinybase-api/persister-browser/interfaces/persister/sessionpersister/methods/lifecycle/stopautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-135
+docs/tinybase-api/persister-expo-sqlite/interfaces/persister/exposqlitepersister/methods/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/persister-pglite/interfaces/persister/pglitepersister/methods/lifecycle/schedule.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/metrics/interfaces/metrics/metrics/methods/development/getlistenerstats.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-117
+docs/tinybase-api/persister-postgres/interfaces/persister/postgrespersister/methods/save/startautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-128
+docs/tinybase-api/common/functions/hash/gettableintableshash.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-126
+docs/tinybase-api/persister-react-native-sqlite/interfaces/persister/reactnativesqlitepersister/methods/lifecycle/startautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/persister-browser/interfaces/persister/localpersister/methods/lifecycle/startautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-134
+docs/tinybase-api/persister-cr-sqlite-wasm/interfaces/persister/crsqlitewasmpersister/methods/lifecycle.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-103
+docs/tinybase-api/persister-durable-object-sql-storage/type-aliases/configuration/durableobjectsqldatabasepersisterconfig.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-114
+docs/tinybase-api/persister-libsql/interfaces/persister/libsqlpersister/methods/save/startautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-128
+docs/tinybase-api/middleware/interfaces/middleware/middleware/methods/configuration/addwilldelcellcallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-135
+docs/tinybase-api/persister-libsql/interfaces/persister/libsqlpersister/methods/load/stopautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/persister-sqlite3/interfaces/persister/sqlite3persister/methods/lifecycle/destroy.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-126
+docs/tinybase-api/persister-sqlite-wasm/interfaces/persister/sqlitewasmpersister/methods/save/isautosaving.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/persister-postgres/functions.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-82
+docs/tinybase-api/persister-react-native-sqlite/interfaces/persister/reactnativesqlitepersister/methods/listener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/persister-file/interfaces/persister/filepersister/methods/getter/getfilepath.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-118
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/deleter/delcell.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-184
+docs/tinybase-api/persister-electric-sql/interfaces/persister/electricsqlpersister/methods/getter.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/persister-file/interfaces/persister/filepersister/methods/lifecycle.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-103
+docs/tinybase-api/indexes/interfaces/indexes/indexes/methods/development.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-92
+docs/tinybase-api/persister-file/functions/creation/createfilepersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-121
+docs/tinybase-api/persister-partykit-client/interfaces.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-90
+docs/tinybase-api/metrics/interfaces/metrics/metrics/methods/iterator/foreachmetric.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-127
+docs/tinybase-api/common/functions/hash/getvalueinvalueshash.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-126
+docs/tinybase-api/middleware/interfaces/middleware/middleware/methods/lifecycle.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-89
+docs/tinybase-api/persister-remote/interfaces/persister/remotepersister/methods/listener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/persister-sqlite-bun/interfaces/persister/sqlitebunpersister/methods/load/stopautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/setter/setdefaultcontent.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-148
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/listener/addtableslistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-180
+docs/tinybase-api/persister-react-native-mmkv/interfaces/persister/reactnativemmkvpersister/methods/lifecycle/stopautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-133
+docs/tinybase-api/persister-sqlite-wasm/interfaces/persister/sqlitewasmpersister/methods/save/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-123
+docs/tinybase-api/persister-postgres/interfaces/persister/postgrespersister/methods/load/startautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-135
+docs/tinybase-api/persister-postgres/interfaces/persister/postgrespersister/methods/listener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/persister-react-native-sqlite/interfaces/persister/reactnativesqlitepersister/methods/load/isautoloading.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/common/type-aliases/general/anyarray.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-98
+docs/tinybase-api/persister-durable-object-sql-storage/interfaces/persister/durableobjectsqlstoragepersister/methods/save/startautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-129
+docs/tinybase-api/mergeable-store/type-aliases/mergeable/mergeablechanges.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-97
+docs/tinybase-api/the-essentials/setting-data.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-105
+docs/tinybase-api/persister-partykit-server/functions/connection/broadcastchanges.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-105
+docs/tinybase-api/mergeable-store/type-aliases/stamps/valuestamp.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-101
+docs/tinybase-api/persister-libsql/interfaces/persister/libsqlpersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-127
+docs/tinybase-api/persister-file/interfaces/persister/filepersister/methods/listener/addstatuslistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/listener/dellistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-156
+docs/tinybase-api/checkpoints/interfaces/checkpoints/checkpoints/methods/listener/dellistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-138
+docs/tinybase-api/persister-browser/interfaces/persister/sessionpersister/methods/listener/dellistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-131
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/listener/addhasvalueslistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-177
+docs/tinybase-api/persister-browser.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-100
+docs/tinybase-api/persister-react-native-sqlite/functions/creation/createreactnativesqlitepersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-177
+docs/tinybase-api/persister-expo-sqlite/functions.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-82
+docs/tinybase-api/persister-browser/interfaces/persister/opfspersister/methods/listener/dellistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-131
+docs/tinybase-api/persister-file/interfaces/persister/filepersister/methods/listener/dellistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-129
+docs/tinybase-api/persister-partykit-server/classes/server/tinybasepartykitserver/methods/sanitization.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-113
+docs/tinybase-api/persister-partykit-server/classes/server/tinybasepartykitserver/methods/sanitization/candelrow.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-133
+docs/tinybase-api/persister-libsql/interfaces/persister/libsqlpersister/methods/lifecycle/startautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/persister-browser/interfaces/persister/opfspersister/methods/listener/addstatuslistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/persister-durable-object-storage/functions.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-82
+docs/tinybase-api/persister-pglite/interfaces/persister/pglitepersister/methods/lifecycle/stopautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-133
+docs/tinybase-api/persister-automerge/interfaces/persister/automergepersister/methods/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/persister-browser/interfaces/persister/opfspersister/methods/development/getstats.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/metrics.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-98
+docs/tinybase-api/persister-react-native-sqlite/interfaces/persister/reactnativesqlitepersister/methods/save/isautosaving.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/persister-automerge/functions.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-82
+docs/tinybase-api/persister-cr-sqlite-wasm/interfaces/persister/crsqlitewasmpersister/methods/save/isautosaving.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/persister-react-native-sqlite/interfaces/persister/reactnativesqlitepersister/methods/listener/addstatuslistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/persister-browser/interfaces/persister/sessionpersister/methods/save/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/indexes/interfaces/indexes/indexes/methods/lifecycle.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-92
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/transaction/finishtransaction.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-177
+docs/tinybase-api/persister-browser/interfaces/persister/opfspersister/methods/save/isautosaving.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-127
+docs/tinybase-api/persister-partykit-client/interfaces/persister/partykitpersister/methods/lifecycle.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-104
+docs/tinybase-api/metrics/type-aliases/aggregators/metricaggregate.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-108
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/getschemajson.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-165
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/iterator/foreachvalue.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-125
+docs/tinybase-api/persister-partykit-server/classes/server/tinybasepartykitserver/properties/configuration/config.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-97
+docs/tinybase-api/persister-indexed-db/interfaces.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-89
+docs/tinybase-api/persister-postgres/interfaces/persister/postgrespersister/methods/lifecycle/schedule.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/the-essentials/creating-stores.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-97
+docs/tinybase-api/persister-partykit-server/classes/server/tinybasepartykitserver/methods/connection/onrequest.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-119
+docs/tinybase-api/checkpoints/interfaces.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-92
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/syncing.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-118
+docs/tinybase-api/persister-remote/interfaces/persister/remotepersister/methods/development.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-91
+docs/tinybase-api/persister-remote/interfaces.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-89
+docs/tinybase-api/mergeable-store/type-aliases/syncing/valuehashes.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-100
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/getrow.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-169
+docs/tinybase-api/synchronizer-ws-server-durable-object.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-94
+docs/tinybase-api/checkpoints/interfaces/checkpoints/checkpoints/methods/getter/getcheckpoint.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-149
+docs/tinybase-api/persister-expo-sqlite/interfaces/persister/exposqlitepersister/methods/getter/getstore.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/indexes/interfaces/indexes/indexes/methods/iterator/foreachindex.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-133
+docs/tinybase-api/persister-libsql/interfaces/persister/libsqlpersister/methods/save/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-123
+docs/tinybase-api/persister-powersync/interfaces/persister/powersyncpersister/methods/save/isautosaving.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/persister-expo-sqlite/interfaces/persister/exposqlitepersister/methods/listener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/setter.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-158
+docs/tinybase-api/middleware/interfaces/middleware/middleware.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-130
+docs/tinybase-api/persister-react-native-sqlite/interfaces/persister/reactnativesqlitepersister/methods/listener/dellistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-129
+docs/tinybase-api/persister-sqlite-wasm/functions.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-83
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-251
+docs/tinybase-api/persister-file.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/persister-sqlite3/interfaces/persister/sqlite3persister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-127
+docs/tinybase-api/persister-browser/interfaces/persister/localpersister/methods/development.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-93
+docs/tinybase-api/persister-react-native-sqlite/interfaces/persister/reactnativesqlitepersister/methods/lifecycle.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-103
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/listener/addhastablelistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-212
+docs/tinybase-api/persister-powersync/interfaces/persister/powersyncpersister/methods/load/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-149
+docs/tinybase-api/mergeable-store/type-aliases/stamps/tablestamp.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-101
+docs/tinybase-api/schematizer-valibot/functions/creation/createvalibotschematizer.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-111
+docs/tinybase-api/persister-postgres/interfaces/persister/postgrespersister/methods/getter/getsql.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-121
+docs/tinybase-api/persister-sqlite3/interfaces/persister/sqlite3persister/methods/load/startautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-135
+docs/tinybase-api/persister-cr-sqlite-wasm/interfaces/persister/crsqlitewasmpersister/methods/lifecycle/stopautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-133
+docs/tinybase-api/ui-svelte-inspector/type-aliases/props/inspectorprops.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-98
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/hastable.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-149
+docs/tinybase-api/synchronizers/interfaces/synchronizer/synchronizer.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-168
+docs/tinybase-api/ui-react-inspector.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-91
+docs/tinybase-api/ui-svelte.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-103
+docs/tinybase-api/persister-expo-sqlite/interfaces/persister/exposqlitepersister/methods/development.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-91
+docs/tinybase-api/persister-react-native-mmkv/interfaces/persister/reactnativemmkvpersister/methods/save/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-123
+docs/tinybase-api/persister-electric-sql/interfaces/persister/electricsqlpersister/methods/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/persisters/interfaces/persister/persister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-190
+docs/tinybase-api/persister-partykit-client/interfaces/persister/partykitpersister/methods/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-101
+docs/tinybase-api/persister-libsql/interfaces/persister/libsqlpersister/methods/listener/dellistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-129
+docs/tinybase-api/persister-pglite/interfaces/persister/pglitepersister/methods/getter.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/persister-remote/interfaces/persister/remotepersister/methods/lifecycle/startautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/persister-remote/interfaces/persister/remotepersister/methods/listener/addstatuslistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/persister-browser/interfaces/persister/localpersister/methods/save/isautosaving.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-127
+docs/tinybase-api/persister-postgres/interfaces/persister/postgrespersister/methods/lifecycle.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-103
+docs/tinybase-api/middleware/interfaces/middleware/middleware/methods/configuration/addwillsetcellcallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-157
+docs/tinybase-api/persister-pglite/interfaces/persister/pglitepersister/methods/lifecycle.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-103
+docs/tinybase-api/persister-libsql/interfaces/persister/libsqlpersister/methods/listener/addstatuslistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/queries/interfaces/queries/queries.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-233
+docs/tinybase-api/checkpoints/interfaces/checkpoints/checkpoints/methods/configuration/setsize.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-137
+docs/tinybase-api/persister-browser/interfaces/persister/sessionpersister/methods/save/startautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/persister-powersync/interfaces.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-89
+docs/tinybase-api/persister-partykit-client/interfaces/persister/partykitpersister/methods/save/startautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-129
+docs/tinybase-api/persister-react-native-mmkv/interfaces/persister/reactnativemmkvpersister/methods/load/stopautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/metrics/type-aliases/callback/metriccallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-105
+docs/tinybase-api/synchronizer-ws-server.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-99
+docs/tinybase-api/persister-durable-object-sql-storage/interfaces/persister/durableobjectsqlstoragepersister/methods/lifecycle/stopautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-134
+docs/tinybase-api/persister-indexed-db/interfaces/persister/indexeddbpersister/methods/lifecycle/stopautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-133
+docs/tinybase-api/persister-automerge/interfaces/persister/automergepersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-127
+docs/tinybase-api/persister-browser/interfaces/persister/localpersister/methods/listener/dellistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-131
+docs/tinybase-api/checkpoints/interfaces/checkpoints/checkpoints/methods/movement.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-100
+docs/tinybase-api/relationships.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-97
+docs/tinybase-api/persister-cr-sqlite-wasm/interfaces/persister/crsqlitewasmpersister/methods/getter/getstore.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/persister-pglite/interfaces/persister/pglitepersister/methods/lifecycle/startautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/synchronizer-local/interfaces/synchronizer/localsynchronizer.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-133
+docs/tinybase-api/persister-powersync/interfaces/persister/powersyncpersister/methods/load/startautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-135
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/setter/addrow.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-170
+docs/tinybase-api/persister-postgres/interfaces/persister/postgrespersister/methods/save/stopautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/setter/merge.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-199
+docs/tinybase-api/persister-cr-sqlite-wasm/interfaces/persister/crsqlitewasmpersister/methods/lifecycle/schedule.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/persister-powersync/interfaces/persister/powersyncpersister/methods/getter/getpowersync.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/persister-electric-sql/interfaces/persister/electricsqlpersister/methods/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/persister-browser/interfaces/persister/sessionpersister/methods/lifecycle/schedule.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-142
+docs/tinybase-api/persister-file/interfaces/persister/filepersister/methods/save/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-123
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/listener/addrowcountlistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-204
+docs/tinybase-api/persister-expo-sqlite/interfaces/persister/exposqlitepersister/methods/getter/getdb.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/persister-powersync/interfaces/persister/powersyncpersister/methods/save/startautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-128
+docs/tinybase-api/persister-sqlite-wasm/interfaces/persister/sqlitewasmpersister/methods/lifecycle/getstatus.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/persister-automerge/interfaces/persister/automergepersister/methods/getter/getdochandle.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/persister-indexed-db/interfaces/persister/indexeddbpersister/methods/listener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/the-essentials/listening-for-changes.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-97
+docs/tinybase-api/persister-pglite.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/persister-file/functions.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-82
+docs/tinybase-api/persister-cr-sqlite-wasm/interfaces/persister/crsqlitewasmpersister/methods/development.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-91
+docs/tinybase-api/persister-sqlite3/interfaces/persister/sqlite3persister/methods/lifecycle/schedule.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/persister-file/interfaces/persister/filepersister/methods/development.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-91
+docs/tinybase-api/persister-sqlite-wasm/interfaces/persister/sqlitewasmpersister/methods/getter/getdb.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-126
+docs/tinybase-api/persister-pglite/interfaces/persister/pglitepersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-127
+docs/tinybase-api/persister-browser/interfaces/persister/localpersister/methods/getter/getstore.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-122
+docs/tinybase-api/persister-partykit-server/classes/server/tinybasepartykitserver/methods/sanitization/candeltable.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-131
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/setter/setrow.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-165
+docs/tinybase-api/persister-browser/interfaces/persister/opfspersister/methods/load/startautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-137
+docs/tinybase-api/persister-sqlite-wasm/interfaces/persister/sqlitewasmpersister/methods/lifecycle/startautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/persister-sqlite3/interfaces/persister/sqlite3persister/methods/lifecycle/stopautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-133
+docs/tinybase-api/persister-automerge/interfaces/persister/automergepersister/methods/save/startautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-128
+docs/tinybase-api/persister-cr-sqlite-wasm/interfaces/persister/crsqlitewasmpersister/methods/load/isautoloading.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/hasvalue.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-149
+docs/tinybase-api/ui-svelte/type-aliases.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-117
+docs/tinybase-api/persister-automerge/interfaces/persister/automergepersister/methods/lifecycle/stopautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-133
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/development.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-94
+docs/tinybase-api/persister-durable-object-storage/interfaces/persister/durableobjectstoragepersister/methods/lifecycle/schedule.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/persister-electric-sql/interfaces/persister/electricsqlpersister/methods/lifecycle/schedule.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/persister-powersync/interfaces/persister/powersyncpersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-127
+docs/tinybase-api/mergeable-store/type-aliases/mergeable.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/store/functions/creation/createstore.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-137
+docs/tinybase-api/persister-react-native-mmkv/interfaces/persister/reactnativemmkvpersister/methods/development.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-91
+docs/tinybase-api/synchronizer-ws-client.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-98
+docs/tinybase-api/persister-sqlite-bun/interfaces/persister/sqlitebunpersister/methods/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/persister-react-native-sqlite/interfaces/persister/reactnativesqlitepersister/methods/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/persister-sqlite-bun/interfaces/persister/sqlitebunpersister/methods/save/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-123
+docs/tinybase-api/persister-durable-object-storage/interfaces/persister/durableobjectstoragepersister/methods/listener/addstatuslistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/persister-partykit-client/interfaces/persister/partykitpersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-128
+docs/tinybase-api/persister-electric-sql.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/listener/addtablecellidslistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-214
+docs/tinybase-api/synchronizer-broadcast-channel.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/persister-browser/interfaces/persister/localpersister/methods/listener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-96
+docs/tinybase-api/persister-durable-object-storage/interfaces/persister/durableobjectstoragepersister/methods/lifecycle.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-103
+docs/tinybase-api/persister-expo-sqlite/interfaces/persister/exposqlitepersister/methods/load/stopautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/getcellids.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-167
+docs/tinybase-api/persister-expo-sqlite/interfaces/persister/exposqlitepersister/methods/lifecycle/destroy.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-126
+docs/tinybase-api/persister-electric-sql/interfaces/persister/electricsqlpersister/methods/getter/getelectricclient.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-129
+docs/tinybase-api/persister-sqlite-bun/interfaces/persister/sqlitebunpersister/methods/listener/addstatuslistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/metrics/interfaces/metrics/metrics/methods/lifecycle.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-92
+docs/tinybase-api/middleware/interfaces/middleware/middleware/methods/getter/getstore.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-111
+docs/tinybase-api/persister-libsql/interfaces/persister/libsqlpersister/methods/lifecycle/stopautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-133
+docs/tinybase-api/persister-powersync/interfaces/persister/powersyncpersister/methods/listener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/hasrow.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-153
+docs/tinybase-api/persister-browser/interfaces/persister/localpersister/methods/development/getstats.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/persister-sqlite-bun/interfaces/persister/sqlitebunpersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-127
+docs/tinybase-api/persister-file/interfaces/persister/filepersister/methods/lifecycle/schedule.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/schematizers/functions/creation/createcustomschematizer.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-129
+docs/tinybase-api/ui-svelte-dom/functions.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-100
+docs/tinybase-api/synchronizer-ws-client/interfaces/synchronizer/wssynchronizer.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-135
+docs/tinybase-api/metrics/type-aliases.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-108
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/deleter/delrow.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-134
+docs/tinybase-api/persister-sqlite-wasm.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/indexes/interfaces/indexes/indexes/methods/getter/hasslice.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-133
+docs/tinybase-api/checkpoints/interfaces/checkpoints/checkpoints/methods/listener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-100
+docs/tinybase-api/persister-cr-sqlite-wasm/interfaces/persister/crsqlitewasmpersister/methods/listener/dellistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-129
+docs/tinybase-api/persister-react-native-sqlite/interfaces/persister/reactnativesqlitepersister/methods/save/startautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-128
+docs/tinybase-api/persister-sqlite-bun/interfaces/persister/sqlitebunpersister/methods/listener/dellistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-129
+docs/tinybase-api/checkpoints/interfaces/checkpoints/checkpoints/methods/iterator/foreachcheckpoint.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-125
+docs/tinybase-api/persister-browser/interfaces/persister/sessionpersister/methods/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-102
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/listener/addvalueslistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-176
+docs/tinybase-api/ui-react/type-aliases.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-128
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/getmergeablecontent.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-169
+docs/tinybase-api/persister-indexed-db/interfaces/persister/indexeddbpersister/methods/listener/addstatuslistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/persister-pglite/functions.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-83
+docs/tinybase-api/persister-cr-sqlite-wasm/interfaces/persister/crsqlitewasmpersister/methods/load/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-149
+docs/tinybase-api/persister-remote/interfaces/persister/remotepersister/methods/lifecycle.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-103
+docs/tinybase-api/metrics/interfaces/metrics/metrics/methods/development.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-92
+docs/tinybase-api/store/type-aliases.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-174
+docs/tinybase-api/persister-durable-object-sql-storage.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-102
+docs/tinybase-api/common/functions/stamps.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-86
+docs/tinybase-api/persister-partykit-client/interfaces/persister/partykitpersister/methods/getter/getconnection.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-124
+docs/tinybase-api/mergeable-store/type-aliases/stamps.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-105
+docs/tinybase-api/ui-svelte-inspector/functions/development-components/inspector.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-115
+docs/tinybase-api/persister-electric-sql/interfaces/persister/electricsqlpersister/methods/load/startautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-135
+docs/tinybase-api/persister-sqlite-bun/interfaces/persister/sqlitebunpersister/methods/load/isautoloading.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/persister-pglite/interfaces/persister/pglitepersister/methods/getter/getstore.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/persister-electric-sql/interfaces/persister/electricsqlpersister/methods/lifecycle/getstatus.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/persister-libsql/interfaces/persister/libsqlpersister/methods/development/getstats.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/persister-automerge/interfaces/persister/automergepersister/methods/load/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-149
+docs/tinybase-api/persister-sqlite3/interfaces/persister/sqlite3persister/methods/load/isautoloading.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/getcell.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-167
+docs/tinybase-api/schematizer-zod/interfaces/schematizer/zodschematizer.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/persister-partykit-server/classes/server/tinybasepartykitserver.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-131
+docs/tinybase-api/persister-sqlite3/interfaces/persister/sqlite3persister/methods/development.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-91
+docs/tinybase-api/the-essentials.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-137
+docs/tinybase-api/metrics/interfaces/metrics/metrics.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-164
+docs/tinybase-api/synchronizer-ws-server/functions/creation/createwsserver.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-289
+docs/tinybase-api/persister-react-native-sqlite/interfaces/persister/reactnativesqlitepersister/methods/lifecycle/schedule.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/persister-cr-sqlite-wasm.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/persister-automerge/interfaces/persister/automergepersister/methods/development/getstats.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/persister-indexed-db/interfaces/persister/indexeddbpersister/methods/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/persister-react-native-mmkv/interfaces/persister/reactnativemmkvpersister/methods/lifecycle.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-103
+docs/tinybase-api/checkpoints/interfaces/checkpoints/checkpoints/methods/lifecycle/clearforward.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-149
+docs/tinybase-api/checkpoints/interfaces/checkpoints/checkpoints.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-193
+docs/tinybase-api/persister-sqlite-bun/interfaces/persister/sqlitebunpersister/methods/getter.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/middleware/type-aliases.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-122
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/setter/setjson.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-170
+docs/tinybase-api/metrics/type-aliases/aggregators.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-98
+docs/tinybase-api/persister-postgres/interfaces/persister/postgrespersister/methods/lifecycle/startautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/persister-indexed-db/interfaces/persister/indexeddbpersister/methods/lifecycle.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-103
+docs/tinybase-api/persister-durable-object-storage/interfaces/persister/durableobjectstoragepersister/methods/lifecycle/getstatus.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/middleware/interfaces/middleware/middleware/methods/configuration/addwillapplychangescallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-142
+docs/tinybase-api/middleware/interfaces/middleware/middleware/methods/configuration.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-128
+docs/tinybase-api/metrics/type-aliases/listener/metricidslistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-103
+docs/tinybase-api/synchronizer-ws-server-simple.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-94
+docs/tinybase-api/persister-browser/interfaces/persister/localpersister/methods/lifecycle/getstatus.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-122
+docs/tinybase-api/persister-browser/interfaces/persister/opfspersister/methods/save/startautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/synchronizer-local/functions/creation/createlocalsynchronizer.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-133
+docs/tinybase-api/persister-sqlite-wasm/interfaces/persister/sqlitewasmpersister/methods/load/startautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-135
+docs/tinybase-api/metrics/type-aliases/development.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-89
+docs/tinybase-api/middleware/interfaces/middleware/middleware/methods/lifecycle/destroy.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-108
+docs/tinybase-api/middleware/interfaces/middleware/middleware/methods/configuration/addwilldelvaluescallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-135
+docs/tinybase-api/indexes/type-aliases/listener/slicerowidslistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-109
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/setter/setcontent.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-188
+docs/tinybase-api/persister-indexed-db/interfaces/persister/indexeddbpersister/methods/load/isautoloading.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/persister-file/interfaces.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-89
+docs/tinybase-api/schematizer-zod.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-88
+docs/tinybase-api/checkpoints/type-aliases/listener/checkpointidslistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-102
+docs/tinybase-api/persister-react-native-sqlite.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/persister-automerge/interfaces/persister/automergepersister/methods/save/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-123
+docs/tinybase-api/persister-postgres/interfaces/persister/postgrespersister/methods/listener/dellistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-129
+docs/tinybase-api/persister-powersync/interfaces/persister/powersyncpersister/methods/lifecycle/schedule.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/persister-react-native-sqlite/interfaces/persister/reactnativesqlitepersister/methods/getter/getdb.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-124
+docs/tinybase-api/ui-react.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-121
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/setter/settable.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-165
+docs/tinybase-api/persister-partykit-client/interfaces/persister/partykitpersister/methods/lifecycle/stopautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-134
+docs/tinybase-api/persister-partykit-server/type-aliases/configuration/tinybasepartykitserverconfig.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-118
+docs/tinybase-api/queries/functions/creation/createqueries.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-121
+docs/tinybase-api/persister-remote.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/persister-browser/interfaces/persister/sessionpersister/methods/load/isautoloading.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-127
+docs/tinybase-api/persister-remote/interfaces/persister/remotepersister/methods/development/getstats.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/persister-file/interfaces/persister/filepersister/methods/save/startautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-128
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/listener/addrowidslistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-203
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/listener/addhasvaluelistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-206
+docs/tinybase-api/common/functions/hash/getcellhash.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-126
+docs/tinybase-api/persister-powersync/functions/creation/createpowersyncpersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-182
+docs/tinybase-api/persister-libsql/functions/creation/createlibsqlpersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-168
+docs/tinybase-api/persister-browser/interfaces/persister/opfspersister/methods/getter.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-96
+docs/tinybase-api/persister-sqlite-wasm/interfaces/persister/sqlitewasmpersister/methods/lifecycle/schedule.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/middleware/type-aliases/callback/willsetvaluescallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-109
+docs/tinybase-api/persisters/enumerations.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/common/type-aliases/general.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-94
+docs/tinybase-api/mergeable-store/type-aliases/syncing.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-99
+docs/tinybase-api/persister-automerge/interfaces/persister/automergepersister/methods/save/isautosaving.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/getvalues.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-157
+docs/tinybase-api/persister-partykit-client/type-aliases/configuration/partykitpersisterconfig.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-112
+docs/tinybase-api/persister-browser/interfaces/persister/opfspersister/methods/lifecycle/getstatus.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-122
+docs/tinybase-api/metrics/interfaces/metrics/metrics/methods/listener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-98
+docs/tinybase-api/middleware/interfaces/middleware/middleware/methods/configuration/addwillsetvaluescallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-160
+docs/tinybase-api/persister-partykit-client/functions.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-83
+docs/tinybase-api/persister-react-native-mmkv/interfaces/persister/reactnativemmkvpersister/methods/getter.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/mergeable-store/functions/creation/createmergeablestore.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-197
+docs/tinybase-api/persister-expo-sqlite/interfaces/persister/exposqlitepersister/methods/save/startautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-128
+docs/tinybase-api/persister-indexed-db/interfaces/persister/indexeddbpersister/methods/load/startautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-135
+docs/tinybase-api/persister-react-native-sqlite/interfaces/persister/reactnativesqlitepersister/methods/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/persister-indexed-db/interfaces/persister/indexeddbpersister/methods/development.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-91
+docs/tinybase-api/persister-remote/functions.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-82
+docs/tinybase-api/persister-react-native-mmkv/interfaces/persister/reactnativemmkvpersister/methods/listener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/getrowids.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-164
+docs/tinybase-api/persister-react-native-sqlite/interfaces/persister/reactnativesqlitepersister/methods/getter/getstore.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/persister-sqlite3/interfaces/persister/sqlite3persister/methods/getter/getstore.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/persister-automerge/interfaces/persister/automergepersister/methods/listener/addstatuslistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/persister-sqlite3.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/persister-partykit-client/interfaces/persister/partykitpersister/methods/getter.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-95
+docs/tinybase-api/persister-libsql/interfaces.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-89
+docs/tinybase-api/middleware/interfaces/middleware/middleware/methods/configuration/addwilldeltablecallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-135
+docs/tinybase-api/persister-browser/functions.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/synchronizer-ws-server-durable-object/classes/creation/wsserverdurableobject.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-97
+docs/tinybase-api/persister-remote/interfaces/persister/remotepersister/methods/load/isautoloading.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/persister-automerge/interfaces/persister/automergepersister/methods/lifecycle/destroy.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-126
+docs/tinybase-api/synchronizer-ws-server/interfaces/server/wsserver.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-105
+docs/tinybase-api/checkpoints/interfaces/checkpoints/checkpoints/methods/getter/getstore.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-120
+docs/tinybase-api/the-essentials/using-svelte/inspector.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-121
+docs/tinybase-api/persister-durable-object-storage/interfaces.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-89
+docs/tinybase-api/persister-indexed-db/interfaces/persister/indexeddbpersister/methods/lifecycle/schedule.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/persisters/type-aliases.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-116
+docs/tinybase-api/persister-expo-sqlite/interfaces/persister/exposqlitepersister/methods/save/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-123
+docs/tinybase-api/persister-libsql/interfaces/persister/libsqlpersister/methods/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/deleter/deltablesschema.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-126
+docs/tinybase-api/persister-sqlite-wasm/interfaces/persister/sqlitewasmpersister/methods/load/stopautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/middleware/type-aliases/callback/willdelrowcallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-113
+docs/tinybase-api/persister-automerge/interfaces/persister/automergepersister/methods/lifecycle/schedule.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/persister-file/interfaces/persister/filepersister/methods/load/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-149
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/transaction.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-110
+docs/tinybase-api/common/functions/hash/addorremovehash.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-131
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/setter/setvaluesjson.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-151
+docs/tinybase-api/synchronizer-ws-client/type-aliases/creation/websockettypes.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-91
+docs/tinybase-api/persister-yjs/functions/creation/createyjspersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-176
+docs/tinybase-api/persister-pglite/interfaces/persister/pglitepersister/methods/load/startautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-135
+docs/tinybase-api/metrics/interfaces/metrics/metrics/methods/configuration/delmetricdefinition.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-127
+docs/tinybase-api/persister-electric-sql/functions.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-82
+docs/tinybase-api/persister-remote/interfaces/persister/remotepersister/methods/load/stopautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/persister-durable-object-sql-storage/interfaces/persister/durableobjectsqlstoragepersister/methods/development/getstats.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-131
+docs/tinybase-api/middleware/type-aliases/callback/willdeltablescallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-107
+docs/tinybase-api/schematizer-effect.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-88
+docs/tinybase-api/persister-browser/interfaces/persister/localpersister/methods/lifecycle.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-105
+docs/tinybase-api/persister-durable-object-sql-storage/interfaces/persister/durableobjectsqlstoragepersister/methods/lifecycle/getstatus.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-121
+docs/tinybase-api/persister-remote/interfaces/persister/remotepersister/methods/getter.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/persister-sqlite-bun/interfaces/persister/sqlitebunpersister/methods/save/startautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-128
+docs/tinybase-api/persister-browser/interfaces/persister/localpersister/methods/getter/getstoragename.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/persister-browser/functions/creation/createsessionpersister.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-123
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/setter/setpartialrow.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-167
+docs/tinybase-api/persister-file/interfaces/persister/filepersister/methods/listener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/mergeable-store/functions.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-84
+docs/tinybase-api/persister-pglite/interfaces/persister/pglitepersister/methods/save/stopautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/indexes/type-aliases/callback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-91
+docs/tinybase-api/metrics/interfaces/metrics/metrics/methods/configuration/setmetricdefinition.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-245
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/listener/addinvalidvaluelistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-276
+docs/tinybase-api/checkpoints/interfaces/checkpoints/checkpoints/methods/development/getlistenerstats.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-125
+docs/tinybase-api/checkpoints/interfaces/checkpoints/checkpoints/methods/listener/addcheckpointidslistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-145
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/hastablesschema.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-153
+docs/tinybase-api/metrics/type-aliases/listener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-92
+docs/tinybase-api/mergeable-store/type-aliases/stamps/rowstamp.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-101
+docs/tinybase-api/schematizer-valibot/interfaces/schematizer/valibotschematizer.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/persister-powersync/interfaces/persister/powersyncpersister/methods/getter.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/persister-react-native-mmkv/interfaces/persister/reactnativemmkvpersister/methods/load/startautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-135
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/hasvalues.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-148
+docs/tinybase-api/common/type-aliases/stamps.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-94
+docs/tinybase-api/persister-browser/interfaces/persister/localpersister/methods/lifecycle/schedule.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-142
+docs/tinybase-api/common/type-aliases/general/anyobject.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-98
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/syncing/getmergeablecelldiff.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-174
+docs/tinybase-api/synchronizer-local.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/persister-browser/interfaces/persister/localpersister.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-129
+docs/tinybase-api/persister-browser/interfaces/persister/opfspersister/methods/lifecycle/schedule.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-142
+docs/tinybase-api/persister-durable-object-storage/interfaces/persister/durableobjectstoragepersister/methods/save/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-123
+docs/tinybase-api/persister-sqlite3/interfaces/persister/sqlite3persister/methods/lifecycle.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-103
+docs/tinybase-api/metrics/type-aliases/aggregators/metricaggregatereplace.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-114
+docs/tinybase-api/persister-browser/interfaces/persister/localpersister/methods/load/stopautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-142
+docs/tinybase-api/persister-browser/interfaces/persister/localpersister/methods/save/startautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/indexes/type-aliases/development/indexeslistenerstats.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-103
+docs/tinybase-api/persister-react-native-mmkv/interfaces/persister/reactnativemmkvpersister/methods/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/persister-libsql/interfaces/persister/libsqlpersister/methods/lifecycle/schedule.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/mergeable-store/interfaces.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-92
+docs/tinybase-api/persister-powersync/interfaces/persister/powersyncpersister/methods/save/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-123
+docs/tinybase-api/ui-svelte-inspector.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-91
+docs/tinybase-api/common/functions/hash/gethash.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-122
+docs/tinybase-api/persister-sqlite-bun/interfaces/persister/sqlitebunpersister/methods/lifecycle.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-103
+docs/tinybase-api/persister-indexed-db/interfaces/persister/indexeddbpersister/methods/getter.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/metrics/type-aliases/development/metricslistenerstats.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-100
+docs/tinybase-api/persister-partykit-server/functions.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/persister-cr-sqlite-wasm/interfaces/persister/crsqlitewasmpersister/methods/save/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-123
+docs/tinybase-api/persister-durable-object-sql-storage/interfaces/persister/durableobjectsqlstoragepersister/methods/load/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-150
+docs/tinybase-api/persister-sqlite-bun/interfaces/persister/sqlitebunpersister/methods/getter/getdb.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/indexes/interfaces/indexes/indexes.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-170
+docs/tinybase-api/middleware/interfaces/middleware/middleware/methods/configuration/addwillsetvaluecallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-137
+docs/tinybase-api/persister-durable-object-sql-storage/interfaces/persister/durableobjectsqlstoragepersister/methods/lifecycle/schedule.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-141
+docs/tinybase-api/checkpoints/interfaces/checkpoints/checkpoints/methods/listener/addcheckpointlistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-152
+docs/tinybase-api/persister-partykit-server/classes/server/tinybasepartykitserver/constructors/creation/constructor.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/schematizer-arktype.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-88
+docs/tinybase-api/checkpoints/interfaces/checkpoints/checkpoints/methods/getter/getcheckpointids.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-134
+docs/tinybase-api/persister-postgres/interfaces/persister/postgrespersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-127
+docs/tinybase-api/common/type-aliases/parameter/sortkey.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-95
+docs/tinybase-api/persister-powersync/interfaces/persister/powersyncpersister/methods/lifecycle/getstatus.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/mergeable-store/type-aliases/mergeable/mergeablecontent.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-97
+docs/tinybase-api/middleware/type-aliases/callback/willdelcellcallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-115
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/deleter.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-118
+docs/tinybase-api/persister-browser/functions/creation/createlocalpersister.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-123
+docs/tinybase-api/persister-browser/interfaces/persister/opfspersister/methods/lifecycle.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-105
+docs/tinybase-api/persister-file/interfaces/persister/filepersister/methods/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/persister-sqlite-wasm/interfaces/persister/sqlitewasmpersister/methods/lifecycle.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-103
+docs/tinybase-api/persister-sqlite3/interfaces/persister/sqlite3persister/methods/lifecycle/startautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/persister-sqlite-wasm/functions/creation/createsqlitewasmpersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-176
+docs/tinybase-api/persister-powersync/interfaces/persister/powersyncpersister/methods/development/getstats.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/queries/type-aliases.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-145
+docs/tinybase-api/persister-react-native-mmkv/interfaces/persister/reactnativemmkvpersister/methods/lifecycle/schedule.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/persister-partykit-server/classes.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-87
+docs/tinybase-api/checkpoints/interfaces/checkpoints/checkpoints/methods/development.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-94
+docs/tinybase-api/persister-yjs.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-91
+docs/tinybase-api/persister-react-native-sqlite/interfaces.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-89
+docs/tinybase-api/persister-expo-sqlite/interfaces/persister/exposqlitepersister/methods/listener/dellistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-129
+docs/tinybase-api/persister-sqlite-wasm/interfaces/persister/sqlitewasmpersister/methods/listener/addstatuslistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/setter/applymergeablechanges.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-148
+docs/tinybase-api/persister-expo-sqlite/interfaces/persister/exposqlitepersister/methods/getter.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/persister-durable-object-sql-storage/interfaces/persister/durableobjectsqlstoragepersister/methods/load/startautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-136
+docs/tinybase-api/persister-sqlite-bun/interfaces/persister/sqlitebunpersister/methods/getter/getstore.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/schematizer-yup/interfaces/schematizer/yupschematizer.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/persister-partykit-client/interfaces/persister/partykitpersister/methods/load/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-150
+docs/tinybase-api/persister-durable-object-sql-storage/interfaces/persister/durableobjectsqlstoragepersister/methods/lifecycle/startautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-133
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/getvalue.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-159
+docs/tinybase-api/synchronizer-ws-server/type-aliases.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/persister-partykit-server/classes/server/tinybasepartykitserver/methods/connection/onmessage.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-123
+docs/tinybase-api/persister-expo-sqlite/interfaces/persister/exposqlitepersister/methods/lifecycle/schedule.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/persister-postgres/interfaces/persister/postgrespersister/methods/getter/getstore.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/metrics/type-aliases/metric.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-89
+docs/tinybase-api/persister-libsql/interfaces/persister/libsqlpersister/methods/lifecycle/destroy.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-126
+docs/tinybase-api/checkpoints/type-aliases/identity/checkpointids.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-101
+docs/tinybase-api/persister-react-native-mmkv/interfaces/persister/reactnativemmkvpersister/methods/lifecycle/getstatus.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/persister-postgres/interfaces/persister/postgrespersister/methods/getter.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/relationships/interfaces/relationships/relationships.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-206
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/getvaluesschemajson.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-159
+docs/tinybase-api/persister-indexed-db/interfaces/persister/indexeddbpersister/methods/save/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-123
+docs/tinybase-api/persister-automerge/interfaces/persister/automergepersister/methods/lifecycle/getstatus.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/persister-cr-sqlite-wasm/interfaces/persister/crsqlitewasmpersister/methods/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/checkpoints/interfaces/checkpoints/checkpoints/methods/setter.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-97
+docs/tinybase-api/persister-automerge/interfaces/persister/automergepersister/methods/getter.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/persister-partykit-client/interfaces/persister/partykitpersister/methods/lifecycle/destroy.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-127
+docs/tinybase-api/indexes/interfaces/indexes/indexes/methods/getter/getslicerowids.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-138
+docs/tinybase-api/persister-electric-sql/interfaces/persister/electricsqlpersister/methods/lifecycle/stopautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-133
+docs/tinybase-api/persister-durable-object-sql-storage/type-aliases.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-86
+docs/tinybase-api/persister-indexed-db/interfaces/persister/indexeddbpersister/methods/lifecycle/startautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/persister-expo-sqlite/functions/creation/createexposqlitepersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-183
+docs/tinybase-api/persister-react-native-sqlite/interfaces/persister/reactnativesqlitepersister/methods/development.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-91
+docs/tinybase-api/persister-durable-object-storage/interfaces/persister/durableobjectstoragepersister/methods/listener/dellistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-129
+docs/tinybase-api/persister-cr-sqlite-wasm/interfaces/persister/crsqlitewasmpersister/methods/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/listener/addhasrowlistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-223
+docs/tinybase-api/persister-react-native-sqlite/interfaces/persister/reactnativesqlitepersister/methods/getter.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/common/functions/convenience/defaultsorter.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-143
+docs/tinybase-api/persister-cr-sqlite-wasm/interfaces/persister/crsqlitewasmpersister/methods/save/stopautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/persister-durable-object-storage/interfaces/persister/durableobjectstoragepersister/methods/save/startautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-128
+docs/tinybase-api/metrics/interfaces/metrics/metrics/methods/getter/getmetricids.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-120
+docs/tinybase-api/metrics/type-aliases/metric/metric.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-96
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/setter/setvalue.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-173
+docs/tinybase-api/schematizer-arktype/functions/creation/createarktypeschematizer.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-111
+docs/tinybase-api/persister-durable-object-sql-storage/interfaces/persister/durableobjectsqlstoragepersister/methods/load/isautoloading.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-126
+docs/tinybase-api/persister-expo-sqlite/interfaces/persister/exposqlitepersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-127
+docs/tinybase-api/checkpoints/type-aliases.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-100
+docs/tinybase-api/persister-postgres/interfaces/persister/postgrespersister/methods/load/isautoloading.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/persister-cr-sqlite-wasm/interfaces/persister/crsqlitewasmpersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-127
+docs/tinybase-api/persister-indexed-db/interfaces/persister/indexeddbpersister/methods/lifecycle/destroy.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-126
+docs/tinybase-api/persister-automerge/functions/creation/createautomergepersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-182
+docs/tinybase-api/persister-sqlite3/interfaces/persister/sqlite3persister/methods/lifecycle/getstatus.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/ui-svelte/functions.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-241
+docs/tinybase-api/persister-partykit-server/functions/storage/loadstorefromstorage.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-104
+docs/tinybase-api/persister-sqlite3/interfaces/persister/sqlite3persister/methods/listener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/persister-electric-sql/interfaces/persister/electricsqlpersister/methods/lifecycle/destroy.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-126
+docs/tinybase-api/persister-durable-object-sql-storage/type-aliases/configuration/dpcfragmented.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-126
+docs/tinybase-api/persister-partykit-server/classes/server/tinybasepartykitserver/properties.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-89
+docs/tinybase-api/persister-file/interfaces/persister/filepersister/methods/getter/getstore.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/checkpoints.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-97
+docs/tinybase-api/persister-sqlite-wasm/interfaces/persister/sqlitewasmpersister/methods/save/startautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-128
+docs/tinybase-api/checkpoints/interfaces/checkpoints/checkpoints/methods/movement/goto.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-147
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/setter/setschema.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-174
+docs/tinybase-api/persister-cr-sqlite-wasm/interfaces/persister/crsqlitewasmpersister/methods/development/getstats.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/persister-cr-sqlite-wasm/interfaces/persister/crsqlitewasmpersister/methods/lifecycle/destroy.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-126
+docs/tinybase-api/persister-sqlite-bun/interfaces/persister/sqlitebunpersister/methods/development.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-91
+docs/tinybase-api/indexes/type-aliases/listener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-94
+docs/tinybase-api/persister-indexed-db/functions.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-82
+docs/tinybase-api/persister-yjs/interfaces/persister/yjspersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-127
+docs/tinybase-api/persister-sqlite-bun/interfaces/persister/sqlitebunpersister/methods/listener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/checkpoints/type-aliases/listener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-91
+docs/tinybase-api/persister-durable-object-sql-storage/interfaces/persister/durableobjectsqlstoragepersister/methods/save/stopautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-133
+docs/tinybase-api/checkpoints/interfaces/checkpoints/checkpoints/methods/lifecycle/clear.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-149
+docs/tinybase-api/persister-file/interfaces/persister/filepersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-127
+docs/tinybase-api/middleware/type-aliases/callback/willdeltablecallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-109
+docs/tinybase-api/persister-automerge/interfaces/persister/automergepersister/methods/load/stopautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/persister-react-native-sqlite/interfaces/persister/reactnativesqlitepersister/methods/save/stopautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/checkpoints/interfaces/checkpoints/checkpoints/methods/setter/addcheckpoint.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-138
+docs/tinybase-api/middleware/type-aliases/callback/willapplychangescallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-109
+docs/tinybase-api/persister-partykit-server/classes/server/tinybasepartykitserver/methods/sanitization/cansetvalue.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-139
+docs/tinybase-api/persister-file/interfaces/persister/filepersister/methods/development/getstats.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/checkpoints/functions.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-83
+docs/tinybase-api/common/type-aliases/callback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-91
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/gettablesjson.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-156
+docs/tinybase-api/persister-cr-sqlite-wasm/interfaces/persister/crsqlitewasmpersister/methods/load/stopautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/ui-svelte-dom/type-aliases.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-99
+docs/tinybase-api/persister-react-native-mmkv/interfaces/persister/reactnativemmkvpersister/methods/getter/getstore.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/persister-react-native-sqlite/interfaces/persister/reactnativesqlitepersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-127
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/listener/addvaluelistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-205
+docs/tinybase-api/persister-browser/interfaces/persister/opfspersister/methods/listener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-96
+docs/tinybase-api/persister-durable-object-sql-storage/interfaces/persister/durableobjectsqlstoragepersister/methods/lifecycle.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-104
+docs/tinybase-api/persister-libsql/interfaces/persister/libsqlpersister/methods/load/isautoloading.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/persister-partykit-server/classes/server/tinybasepartykitserver/methods/sanitization/cansettable.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-135
+docs/tinybase-api/indexes/type-aliases/concept/index.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-98
+docs/tinybase-api/checkpoints/type-aliases/listener/checkpointlistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-106
+docs/tinybase-api/mergeable-store/type-aliases/stamps/cellstamp.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-101
+docs/tinybase-api/persister-durable-object-storage/interfaces/persister/durableobjectstoragepersister/methods/load/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-149
+docs/tinybase-api/persister-expo-sqlite/interfaces/persister/exposqlitepersister/methods/lifecycle/stopautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-133
+docs/tinybase-api/persister-pglite/interfaces/persister/pglitepersister/methods/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/ui-react-inspector/functions/development-components/inspector.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-124
+docs/tinybase-api/common/type-aliases.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-110
+docs/tinybase-api/middleware/interfaces/middleware/middleware/methods/getter.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-89
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/syncing/getmergeabletablediff.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-147
+docs/tinybase-api/persister-partykit-client/interfaces/persister/partykitpersister/methods/development.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-92
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/setter/settables.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-161
+docs/tinybase-api/metrics/interfaces/metrics/metrics/methods/iterator.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-92
+docs/tinybase-api/store/interfaces/store/store.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-326
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/getrowcount.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-164
+docs/tinybase-api/middleware/functions/creation/createmiddleware.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-122
+docs/tinybase-api/synchronizer-ws-server-durable-object/functions/creation/getwsserverdurableobjectfetch.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-121
+docs/tinybase-api/persister-cr-sqlite-wasm/interfaces/persister/crsqlitewasmpersister/methods/load/startautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-135
+docs/tinybase-api/persister-libsql/interfaces/persister/libsqlpersister/methods/save/isautosaving.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/persister-partykit-client.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-98
+docs/tinybase-api/persister-expo-sqlite/interfaces/persister/exposqlitepersister/methods/load/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-149
+docs/tinybase-api/persister-sqlite3/interfaces/persister/sqlite3persister/methods/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/persister-expo-sqlite/interfaces/persister/exposqlitepersister/methods/lifecycle/startautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/persister-browser/interfaces/persister/opfspersister/methods/lifecycle/destroy.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-128
+docs/tinybase-api/persister-react-native-mmkv/interfaces/persister/reactnativemmkvpersister/methods/save/stopautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/persister-sqlite-wasm/interfaces/persister/sqlitewasmpersister/methods/getter/getstore.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/setter/settablesschema.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-146
+docs/tinybase-api/persister-browser/interfaces/persister/sessionpersister/methods/load/stopautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-142
+docs/tinybase-api/persister-partykit-server/classes/server/tinybasepartykitserver/methods/sanitization/candelvalue.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-131
+docs/tinybase-api/persister-browser/interfaces/persister/sessionpersister/methods/load/startautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-137
+docs/tinybase-api/common.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-94
+docs/tinybase-api/persister-react-native-mmkv/interfaces/persister/reactnativemmkvpersister/methods/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/transaction/gettransactionchanges.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-133
+docs/tinybase-api/persister-sqlite-bun/interfaces/persister/sqlitebunpersister/methods/save/stopautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/indexes/type-aliases/callback/indexcallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-105
+docs/tinybase-api/persister-partykit-client/interfaces/persister/partykitpersister/methods/save/isautosaving.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-126
+docs/tinybase-api/indexes/interfaces/indexes/indexes/methods/listener/dellistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-137
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/gettableids.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-160
+docs/tinybase-api/persister-expo-sqlite/interfaces/persister/exposqlitepersister/methods/save/stopautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/persister-durable-object-storage.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-93
+docs/tinybase-api/persister-cr-sqlite-wasm/functions.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-82
+docs/tinybase-api/indexes/interfaces/indexes/indexes/methods/getter/gettableid.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-126
+docs/tinybase-api/persister-remote/interfaces/persister/remotepersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-127
+docs/tinybase-api/middleware/interfaces/middleware/middleware/methods/configuration/addwilldelvaluecallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-135
+docs/tinybase-api/persister-electric-sql/interfaces/persister/electricsqlpersister/methods/load/isautoloading.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/persister-pglite/interfaces/persister/pglitepersister/methods/lifecycle/getstatus.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/indexes/interfaces/indexes/indexes/methods/getter/getsliceids.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-132
+docs/tinybase-api/persister-libsql/interfaces/persister/libsqlpersister/methods/getter/getclient.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/persister-postgres/interfaces/persister/postgrespersister/methods/development/getstats.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/persister-durable-object-sql-storage/interfaces/persister/durableobjectsqlstoragepersister/methods/listener/dellistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/listener/addtableidslistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-177
+docs/tinybase-api/persister-remote/interfaces/persister/remotepersister/methods/listener/dellistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-129
+docs/tinybase-api/checkpoints/type-aliases/identity.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-88
+docs/tinybase-api/persister-cr-sqlite-wasm/functions/creation/createcrsqlitewasmpersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-168
+docs/tinybase-api/persister-electric-sql/interfaces/persister/electricsqlpersister/methods/save/stopautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/persister-sqlite-wasm/interfaces/persister/sqlitewasmpersister/methods/save/stopautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/middleware/interfaces/middleware/middleware/methods/configuration/addwillsettablescallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-170
+docs/tinybase-api/persister-remote/functions/creation/createremotepersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-132
+docs/tinybase-api/persister-postgres/interfaces.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-89
+docs/tinybase-api/persister-postgres/functions/creation/createpostgrespersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-170
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/listener/addtablelistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-208
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/deleter/delvaluesschema.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-126
+docs/tinybase-api/persister-powersync/functions.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-82
+docs/tinybase-api/persister-durable-object-storage/interfaces/persister/durableobjectstoragepersister/methods/development.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-91
+docs/tinybase-api/indexes/interfaces/indexes/indexes/methods/configuration/delindexdefinition.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-127
+docs/tinybase-api/persister-react-native-sqlite/interfaces/persister/reactnativesqlitepersister/methods/load/stopautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/persister-react-native-sqlite/interfaces/persister/reactnativesqlitepersister/methods/lifecycle/destroy.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-126
+docs/tinybase-api/persister-powersync/interfaces/persister/powersyncpersister/methods/lifecycle.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-103
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/ismergeable.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-134
+docs/tinybase-api/middleware/functions.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-83
+docs/tinybase-api/persister-automerge/interfaces/persister/automergepersister/methods/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/middleware/interfaces/middleware/middleware/methods/configuration/addwillsetrowcallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-188
+docs/tinybase-api/checkpoints/interfaces/checkpoints/checkpoints/methods/lifecycle.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-100
+docs/tinybase-api/common/type-aliases/identity/id.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-97
+docs/tinybase-api/persister-react-native-mmkv/functions/creation/createreactnativemmkvpersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-131
+docs/tinybase-api/persister-libsql/interfaces/persister/libsqlpersister/methods/load/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-149
+docs/tinybase-api/persister-cr-sqlite-wasm/interfaces/persister/crsqlitewasmpersister/methods/getter.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/persister-partykit-client/interfaces/persister/partykitpersister/methods/getter/getstore.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-121
+docs/tinybase-api/persister-pglite/interfaces/persister/pglitepersister/methods/listener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/persister-react-native-mmkv/interfaces.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-89
+docs/tinybase-api/persister-sqlite-bun/interfaces/persister/sqlitebunpersister/methods/lifecycle/stopautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-133
+docs/tinybase-api/persister-partykit-client/interfaces/persister/partykitpersister/methods/save/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-124
+docs/tinybase-api/persister-expo-sqlite/interfaces.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-89
+docs/tinybase-api/common/functions/hash/getvaluehash.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-126
+docs/tinybase-api/metrics/interfaces/metrics/metrics/methods/listener/addmetriclistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-175
+docs/tinybase-api/persister-sqlite-bun/interfaces/persister/sqlitebunpersister/methods/save/isautosaving.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/hascell.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-155
+docs/tinybase-api/persister-electric-sql/interfaces/persister/electricsqlpersister/methods/listener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/persister-file/interfaces/persister/filepersister/methods/load/startautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-135
+docs/tinybase-api/persister-libsql/interfaces/persister/libsqlpersister/methods/save/stopautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/persister-libsql/interfaces/persister/libsqlpersister/methods/lifecycle/getstatus.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/persister-sqlite3/functions/creation/createsqlite3persister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-182
+docs/tinybase-api/persister-durable-object-sql-storage/interfaces/persister/durableobjectsqlstoragepersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-128
+docs/tinybase-api/persister-react-native-mmkv/interfaces/persister/reactnativemmkvpersister/methods/listener/addstatuslistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/checkpoints/interfaces/checkpoints/checkpoints/methods/iterator.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-94
+docs/tinybase-api/middleware/interfaces/middleware/middleware/methods/configuration/addwilldelrowcallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-135
+docs/tinybase-api/persister-browser/functions/creation/createopfspersister.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-126
+docs/tinybase-api/schematizer-yup/functions/creation/createyupschematizer.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-111
+docs/tinybase-api/persister-browser/interfaces/persister/localpersister/methods/load/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-151
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/setter/setmergeablecontent.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-152
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/getsortedrowids.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-262
+docs/tinybase-api/persister-remote/interfaces/persister/remotepersister/methods/save/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-123
+docs/tinybase-api/persisters.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-141
+docs/tinybase-api/persister-pglite/interfaces/persister/pglitepersister/methods/development.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-91
+docs/tinybase-api/persister-browser/interfaces/persister/localpersister/methods/getter.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-96
+docs/tinybase-api/common/type-aliases/stamps/hash.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-99
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/getcontent.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-159
+docs/tinybase-api/persister-durable-object-storage/interfaces/persister/durableobjectstoragepersister/methods/load/isautoloading.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/common/type-aliases/identity/ids.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-97
+docs/tinybase-api/persister-durable-object-sql-storage/interfaces/persister/durableobjectsqlstoragepersister/methods/lifecycle/destroy.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-127
+docs/tinybase-api/persister-libsql/interfaces/persister/libsqlpersister/methods/getter/getstore.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/setter/setpartialvalues.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-159
+docs/tinybase-api/indexes/interfaces/indexes/indexes/methods/getter.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-110
+docs/tinybase-api/synchronizer-ws-server-simple/functions/creation/createwsserversimple.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-139
+docs/tinybase-api/metrics/interfaces.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/persister-sqlite3/interfaces/persister/sqlite3persister/methods/listener/dellistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-129
+docs/tinybase-api/persister-browser/interfaces/persister/sessionpersister/methods/getter.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-96
+docs/tinybase-api/persister-postgres/interfaces/persister/postgrespersister/methods/load/stopautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/persister-cr-sqlite-wasm/interfaces/persister/crsqlitewasmpersister/methods/lifecycle/startautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/indexes/interfaces/indexes/indexes/methods/configuration/setindexdefinition.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-220
+docs/tinybase-api/persister-electric-sql/interfaces/persister/electricsqlpersister/methods/save/isautosaving.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/persister-automerge/interfaces/persister/automergepersister/methods/load/startautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-135
+docs/tinybase-api/persister-browser/interfaces/persister/sessionpersister/methods/getter/getstoragename.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/hastablecell.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-157
+docs/tinybase-api/indexes/interfaces/indexes/indexes/methods/getter/getstore.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-121
+docs/tinybase-api/indexes/interfaces/indexes/indexes/methods/listener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-101
+docs/tinybase-api/persister-expo-sqlite/interfaces/persister/exposqlitepersister/methods/development/getstats.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/persister-indexed-db/interfaces/persister/indexeddbpersister/methods/save/isautosaving.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/persister-postgres/interfaces/persister/postgrespersister/methods/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/persister-indexed-db/interfaces/persister/indexeddbpersister/methods/load/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-149
+docs/tinybase-api/persister-indexed-db/interfaces/persister/indexeddbpersister/methods/save/stopautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/persister-sqlite-wasm/interfaces/persister/sqlitewasmpersister/methods/listener/dellistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-129
+docs/tinybase-api/schematizer-typebox/interfaces/schematizer/typeboxschematizer.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/persister-remote/interfaces/persister/remotepersister/methods/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/persister-electric-sql/interfaces/persister/electricsqlpersister/methods/getter/getstore.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/persister-react-native-sqlite/interfaces/persister/reactnativesqlitepersister/methods/development/getstats.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/persister-partykit-server/functions/connection.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-86
+docs/tinybase-api/synchronizer-ws-client/functions/creation/createwssynchronizer.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-152
+docs/tinybase-api/ui-react/functions.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-324
+docs/tinybase-api/persister-browser/interfaces/persister/opfspersister/methods/development.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-93
+docs/tinybase-api/persister-file/interfaces/persister/filepersister/methods/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/iterator/foreachtablecell.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-131
+docs/tinybase-api/indexes/type-aliases/concept/slice.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-98
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/setter/settablesjson.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-151
+docs/tinybase-api/middleware/interfaces/middleware/middleware/methods/configuration/addwillsettablecallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-167
+docs/tinybase-api/persister-automerge/interfaces/persister/automergepersister/methods/development.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-91
+docs/tinybase-api/persister-durable-object-storage/interfaces/persister/durableobjectstoragepersister/methods/load/startautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-135
+docs/tinybase-api/persister-partykit-client/interfaces/persister/partykitpersister/methods/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-101
+docs/tinybase-api/persister-partykit-server/classes/server/tinybasepartykitserver/methods/sanitization/cansetrow.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-136
+docs/tinybase-api/persister-sqlite-bun/interfaces/persister/sqlitebunpersister/methods/load/startautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-135
+docs/tinybase-api/persister-browser/interfaces/persister/localpersister/methods/lifecycle/stopautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-135
+docs/tinybase-api/common/functions/hash/getrowhash.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-123
+docs/tinybase-api/persister-powersync/interfaces/persister/powersyncpersister/methods/lifecycle/destroy.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-126
+docs/tinybase-api/persister-remote/interfaces/persister/remotepersister/methods/lifecycle/getstatus.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/persister-durable-object-storage/interfaces/persister/durableobjectstoragepersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-127
+docs/tinybase-api/indexes/interfaces/indexes/indexes/methods/lifecycle/destroy.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-124
+docs/tinybase-api/indexes/interfaces/indexes/indexes/methods/iterator.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-95
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/iterator/foreachtable.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-131
+docs/tinybase-api/persister-durable-object-storage/interfaces/persister/durableobjectstoragepersister/methods/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/persister-automerge/interfaces.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-89
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/hasvaluesschema.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-149
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/gettablesschemajson.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-162
+docs/tinybase-api/common/functions/hash.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-119
+docs/tinybase-api/persister-pglite/interfaces/persister/pglitepersister/methods/load/isautoloading.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/persisters/functions.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/indexes/interfaces/indexes/indexes/methods/getter/getindexids.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-122
+docs/tinybase-api/the-essentials/persisting-stores.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-109
+docs/tinybase-api/persister-browser/interfaces/persister/opfspersister/methods/save/stopautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-134
+docs/tinybase-api/persister-browser/interfaces/persister/sessionpersister/methods/save/stopautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-134
+docs/tinybase-api/persister-sqlite-wasm/interfaces/persister/sqlitewasmpersister/methods/load/isautoloading.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/checkpoints/type-aliases/development.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-88
+docs/tinybase-api/common/type-aliases/identity/idornull.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-97
+docs/tinybase-api/persister-browser/interfaces/persister/opfspersister/methods/load/isautoloading.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-127
+docs/tinybase-api/persister-powersync/interfaces/persister/powersyncpersister/methods/load/isautoloading.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/middleware/type-aliases/callback/willsetvaluecallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-113
+docs/tinybase-api/middleware/type-aliases/callback/willdelvaluecallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-109
+docs/tinybase-api/metrics/interfaces/metrics/metrics/methods/configuration.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-95
+docs/tinybase-api/persister-automerge/interfaces/persister/automergepersister/methods/getter/getstore.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/persister-durable-object-sql-storage/interfaces/persister/durableobjectsqlstoragepersister/methods/getter.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-95
+docs/tinybase-api/persister-browser/interfaces/persister/sessionpersister/methods/getter/getstore.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-122
+docs/tinybase-api/persister-indexed-db/interfaces/persister/indexeddbpersister/methods/development/getstats.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/metrics/functions/creation/createmetrics.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-121
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/iterator/foreachcell.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-133
+docs/tinybase-api/persister-sqlite-wasm/interfaces/persister/sqlitewasmpersister/methods/getter.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/persister-pglite/interfaces/persister/pglitepersister/methods/development/getstats.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/syncing/getmergeablecontenthashes.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-131
+docs/tinybase-api/persister-indexed-db.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/persister-durable-object-storage/interfaces/persister/durableobjectstoragepersister/methods/load/stopautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/schematizers.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-89
+docs/tinybase-api/persister-react-native-mmkv/interfaces/persister/reactnativemmkvpersister/methods/listener/dellistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-129
+docs/tinybase-api/persister-powersync/interfaces/persister/powersyncpersister/methods/lifecycle/stopautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-133
+docs/tinybase-api/persister-indexed-db/interfaces/persister/indexeddbpersister/methods/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/persister-expo-sqlite/interfaces/persister/exposqlitepersister/methods/load/isautoloading.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/persister-partykit-client/interfaces/persister/partykitpersister/methods/lifecycle/startautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-133
+docs/tinybase-api/indexes/type-aliases/development.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-88
+docs/tinybase-api/persister-file/interfaces/persister/filepersister/methods/load/stopautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/synchronizers/enumerations/synchronization/message.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-112
+docs/tinybase-api/metrics/interfaces/metrics/metrics/methods/getter/gettableid.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-124
+docs/tinybase-api/persister-partykit-client/interfaces/persister/partykitpersister/methods/load/startautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-136
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/listener/addhastableslistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-179
+docs/tinybase-api/persister-powersync.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/persister-react-native-sqlite/interfaces/persister/reactnativesqlitepersister/methods/load/startautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-135
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/setter/applychanges.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-147
+docs/tinybase-api/synchronizer-broadcast-channel/interfaces/synchronizer/broadcastchannelsynchronizer.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-134
+docs/tinybase-api/persister-partykit-server/functions/storage/hasstoreinstorage.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-104
+docs/tinybase-api/relationships/type-aliases.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-102
+docs/tinybase-api/metrics/interfaces/metrics/metrics/methods/getter/getstore.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-119
+docs/tinybase-api/common/functions/hash/getrowintablehash.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-126
+docs/tinybase-api/persister-react-native-mmkv.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/persister-partykit-server/classes/server/tinybasepartykitserver/methods.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-103
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/getvaluesjson.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-156
+docs/tinybase-api/persister-browser/interfaces.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-111
+docs/tinybase-api/persister-durable-object-sql-storage/interfaces/persister/durableobjectsqlstoragepersister/methods/save/isautosaving.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-126
+docs/tinybase-api/persister-powersync/interfaces/persister/powersyncpersister/methods/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/persister-electric-sql/interfaces/persister/electricsqlpersister/methods/listener/dellistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-129
+docs/tinybase-api/persister-browser/interfaces/persister/opfspersister/methods/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-102
+docs/tinybase-api/persister-file/interfaces/persister/filepersister/methods/save/isautosaving.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/indexes/type-aliases/listener/indexidslistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-103
+docs/tinybase-api/persister-browser/interfaces/persister/localpersister/methods/load/isautoloading.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-127
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/setter/setvaluesschema.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-143
+docs/tinybase-api/synchronizer-broadcast-channel/functions/creation/createbroadcastchannelsynchronizer.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-141
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/gettables.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-160
+docs/tinybase-api/persister-browser/interfaces/persister/localpersister/methods/load/startautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-137
+docs/tinybase-api/persister-react-native-sqlite/interfaces/persister/reactnativesqlitepersister/methods/save/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-123
+docs/tinybase-api/persister-sqlite3/functions.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-82
+docs/tinybase-api/persister-file/interfaces/persister/filepersister/methods/lifecycle/destroy.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-126
+docs/tinybase-api/mergeable-store/type-aliases/syncing/tablehashes.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-100
+docs/tinybase-api/persister-partykit-server.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-99
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/getjson.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-159
+docs/tinybase-api/persister-postgres/interfaces/persister/postgrespersister/methods/load/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-149
+docs/tinybase-api/metrics/type-aliases/aggregators/metricaggregateremove.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-112
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/hastables.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-148
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/listener/addvalueidslistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-177
+docs/tinybase-api/persister-browser/interfaces/persister/sessionpersister/methods/listener/addstatuslistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/indexes/interfaces/indexes/indexes/methods/listener/addindexidslistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-133
+docs/tinybase-api/persister-browser/interfaces/persister/sessionpersister/methods/lifecycle.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-105
+docs/tinybase-api/persister-partykit-server/classes/server/tinybasepartykitserver/methods/sanitization/cansetcell.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-144
+docs/tinybase-api/persister-powersync/interfaces/persister/powersyncpersister/methods/listener/addstatuslistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/common/type-aliases/callback/callback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-96
+docs/tinybase-api/persister-browser/interfaces/persister/localpersister/methods/save/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/persister-indexed-db/interfaces/persister/indexeddbpersister/methods/save/startautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-128
+docs/tinybase-api/persister-remote/interfaces/persister/remotepersister/methods/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/metrics/type-aliases/aggregators/metricaggregateadd.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-112
+docs/tinybase-api/persister-browser/interfaces/persister/opfspersister/methods/lifecycle/stopautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-135
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/transaction/transaction.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-215
+docs/tinybase-api/persister-browser/interfaces/persister/opfspersister/methods/save/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/persister-libsql.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/persister-sqlite-bun/functions.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-82
+docs/tinybase-api/persister-durable-object-sql-storage/interfaces/persister/durableobjectsqlstoragepersister/methods/listener/addstatuslistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-131
+docs/tinybase-api/checkpoints/interfaces/checkpoints/checkpoints/methods/getter.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-103
+docs/tinybase-api/persister-durable-object-storage/interfaces/persister/durableobjectstoragepersister/methods/getter.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/metrics/interfaces/metrics/metrics/methods/getter/hasmetric.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-127
+docs/tinybase-api/persister-browser/interfaces/persister/sessionpersister.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-129
+docs/tinybase-api/persister-expo-sqlite/interfaces/persister/exposqlitepersister/methods/load/startautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-135
+docs/tinybase-api/persister-electric-sql/interfaces.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-89
+docs/tinybase-api/persister-libsql/interfaces/persister/libsqlpersister/methods/listener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/ui-react-dom/functions.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-100
+docs/tinybase-api/persister-powersync/interfaces/persister/powersyncpersister/methods/load/stopautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/listener/addwillfinishtransactionlistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-201
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/transaction/gettransactionlog.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-141
+docs/tinybase-api/persister-remote/interfaces/persister/remotepersister/methods/save/isautosaving.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/middleware/interfaces/middleware/middleware/methods/configuration/addwilldeltablescallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-135
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/iterator/foreachrow.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-137
+docs/tinybase-api/persister-pglite/interfaces/persister/pglitepersister/methods/listener/dellistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-129
+docs/tinybase-api/middleware/type-aliases/callback/willsetcontentcallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-109
+docs/tinybase-api/persister-durable-object-storage/interfaces/persister/durableobjectstoragepersister/methods/development/getstats.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/syncing/getmergeabletablehashes.md
+  s_65a6d03cab00be::t_819cbd2f31e076 1-131
+docs/tinybase-api/middleware/type-aliases/callback/willdelvaluescallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-107
+docs/tinybase-api/schematizer-zod/functions/creation/createzodschematizer.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-111
+docs/tinybase-api/persister-indexed-db/interfaces/persister/indexeddbpersister/methods/getter/getstore.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/persister-automerge/interfaces/persister/automergepersister/methods/lifecycle/startautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/persister-libsql/interfaces/persister/libsqlpersister/methods/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/persister-electric-sql/functions/creation/createelectricsqlpersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-185
+docs/tinybase-api/persister-powersync/interfaces/persister/powersyncpersister/methods/listener/dellistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-129
+docs/tinybase-api/metrics/type-aliases/listener/metriclistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-112
+docs/tinybase-api/persister-sqlite-bun/interfaces/persister/sqlitebunpersister/methods/load/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-149
+docs/tinybase-api/persister-browser/interfaces/persister/sessionpersister/methods/save/isautosaving.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-127
+docs/tinybase-api/persister-react-native-mmkv/interfaces/persister/reactnativemmkvpersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-127
+docs/tinybase-api/persister-cr-sqlite-wasm/interfaces/persister/crsqlitewasmpersister/methods/listener/addstatuslistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/persister-durable-object-sql-storage/interfaces/persister/durableobjectsqlstoragepersister/methods/load/stopautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-141
+docs/tinybase-api/persister-expo-sqlite/interfaces/persister/exposqlitepersister/methods/listener/addstatuslistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/persister-file/interfaces/persister/filepersister/methods/save/stopautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/persister-sqlite3/interfaces/persister/sqlite3persister/methods/getter/getdb.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/persister-indexed-db/interfaces/persister/indexeddbpersister/methods/load/stopautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/common/functions/hash/gettableshash.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-123
+docs/tinybase-api/checkpoints/interfaces/checkpoints/checkpoints/methods/lifecycle/destroy.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-123
+docs/tinybase-api/mergeable-store/type-aliases/syncing/rowhashes.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-100
+docs/tinybase-api/persister-sqlite-bun/interfaces/persister/sqlitebunpersister/methods/lifecycle/schedule.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/persister-durable-object-sql-storage/interfaces/persister/durableobjectsqlstoragepersister/methods/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-101
+docs/tinybase-api/persister-react-native-mmkv/interfaces/persister/reactnativemmkvpersister/methods/save/startautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-128
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/listener/calllistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-242
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/gettable.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-162
+docs/tinybase-api/persister-sqlite-bun/interfaces/persister/sqlitebunpersister/methods/lifecycle/destroy.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-126
+docs/tinybase-api/persister-sqlite3/interfaces/persister/sqlite3persister/methods/load/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-149
+docs/tinybase-api/persister-postgres/interfaces/persister/postgrespersister/methods/listener/addstatuslistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/the-essentials/creating-stores/store.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-212
+docs/tinybase-api/persister-remote/interfaces/persister/remotepersister/methods/save/stopautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/middleware/type-aliases/callback/willsetrowcallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-116
+docs/tinybase-api/persister-postgres/interfaces/persister/postgrespersister/methods/lifecycle/getstatus.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/persister-electric-sql/interfaces/persister/electricsqlpersister/methods/save/startautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-128
+docs/tinybase-api/common/type-aliases/stamps/hlc.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-103
+docs/tinybase-api/persister-partykit-server/classes/server/tinybasepartykitserver/constructors.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-89
+docs/tinybase-api/persister-partykit-client/interfaces/persister/partykitpersister/methods/listener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-95
+docs/tinybase-api/persister-durable-object-sql-storage/functions.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-84
+docs/tinybase-api/common/type-aliases/identity.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-94
+docs/tinybase-api/persister-expo-sqlite/interfaces/persister/exposqlitepersister/methods/save/isautosaving.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/checkpoints/type-aliases/development/checkpointslistenerstats.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-103
+docs/tinybase-api/persister-partykit-client/interfaces/persister/partykitpersister/methods/listener/dellistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/persister-remote/interfaces/persister/remotepersister/methods/save/startautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-128
+docs/tinybase-api/persister-durable-object-storage/functions/creation/createdurableobjectstoragepersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-126
+docs/tinybase-api/persister-browser/interfaces/persister/opfspersister/methods/getter/gethandle.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-123
+docs/tinybase-api/indexes/type-aliases.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-103
+docs/tinybase-api/ui-react-dom/type-aliases.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-99
+docs/tinybase-api/persister-browser/interfaces/persister/sessionpersister/methods/lifecycle/startautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-134
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/syncing/getmergeablecellhashes.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-140
+docs/tinybase-api/persister-browser/interfaces/persister/localpersister/methods/listener/addstatuslistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/persister-sqlite-wasm/interfaces/persister/sqlitewasmpersister/methods/load/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-149
+docs/tinybase-api/persister-indexed-db/interfaces/persister/indexeddbpersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-127
+docs/tinybase-api/the-essentials/using-react.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-110
+docs/tinybase-api/persister-browser/interfaces/persister/opfspersister/methods/getter/getstore.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-122
+docs/tinybase-api/persister-sqlite3/interfaces/persister/sqlite3persister/methods/listener/addstatuslistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/persister-react-native-mmkv/interfaces/persister/reactnativemmkvpersister/methods/load/isautoloading.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/indexes/functions.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-83
+docs/tinybase-api/common/type-aliases/general/json.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-97
+docs/tinybase-api/checkpoints/functions/creation/createcheckpoints.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-121
+docs/tinybase-api/common/functions/hash/getcellinrowhash.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-126
+docs/tinybase-api/indexes/interfaces/indexes/indexes/methods/iterator/foreachslice.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-135
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter/getvalueids.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-157
+docs/tinybase-api/persister-automerge/interfaces/persister/automergepersister/methods/load/isautoloading.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/persister-browser/interfaces/persister/opfspersister/methods/load/stopautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-142
+docs/tinybase-api/persister-sqlite-bun/interfaces/persister/sqlitebunpersister/methods/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/persister-electric-sql/interfaces/persister/electricsqlpersister/methods/lifecycle/startautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/persister-browser/interfaces/persister/opfspersister/methods/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-102
+docs/tinybase-api/persister-libsql/interfaces/persister/libsqlpersister/methods/load/startautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-135
+docs/tinybase-api/persister-durable-object-storage/interfaces/persister/durableobjectstoragepersister/methods/getter/getstore.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/persister-sqlite-bun/interfaces/persister/sqlitebunpersister/methods/development/getstats.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/persister-remote/interfaces/persister/remotepersister/methods/load/startautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-135
+docs/tinybase-api/persister-sqlite-bun/interfaces.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-89
+docs/tinybase-api/persister-partykit-client/interfaces/persister/partykitpersister/methods/load/stopautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-141
+docs/tinybase-api/checkpoints/interfaces/checkpoints/checkpoints/methods/setter/setcheckpoint.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-149
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/listener/addrowlistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-219
+docs/tinybase-api/persister-browser/interfaces/persister/sessionpersister/methods/development/getstats.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/persister-automerge/interfaces/persister/automergepersister/methods/listener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/persister-browser/interfaces/persister/localpersister/methods/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-102
+docs/tinybase-api/persister-electric-sql/interfaces/persister/electricsqlpersister/methods/save/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-123
+docs/tinybase-api/persister-partykit-client/interfaces/persister/partykitpersister/methods/lifecycle/schedule.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-141
+docs/tinybase-api/index.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-410
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 411
+docs/tinybase-api/indexes/type-aliases/concept.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-91
+docs/tinybase-api/persister-remote/interfaces/persister/remotepersister/methods/getter/getstore.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/schematizer-arktype/interfaces/schematizer/arktypeschematizer.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/persister-sqlite-bun/interfaces/persister/sqlitebunpersister/methods/lifecycle/getstatus.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/persister-electric-sql/interfaces/persister/electricsqlpersister/methods/lifecycle.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-103
+docs/tinybase-api/common/type-aliases/stamps/getnow.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-100
+docs/tinybase-api/persister-browser/interfaces/persister/sessionpersister/methods/listener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-96
+docs/tinybase-api/ui-react-inspector/type-aliases/props/inspectorprops.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-98
+docs/tinybase-api/persister-sqlite-bun.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/schematizer-effect/functions/creation/createeffectschematizer.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-111
+docs/tinybase-api/persister-pglite/interfaces/persister/pglitepersister/methods/load/stopautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/persister-electric-sql/interfaces/persister/electricsqlpersister/methods/development/getstats.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/persister-durable-object-sql-storage/interfaces/persister/durableobjectsqlstoragepersister/methods/save/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-124
+docs/tinybase-api/indexes/interfaces/indexes/indexes/methods/listener/addsliceidslistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-173
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/getter.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-187
+docs/tinybase-api/checkpoints/interfaces/checkpoints/checkpoints/methods/movement/goforward.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-173
+docs/tinybase-api/persister-durable-object-sql-storage/functions/creation/createdurableobjectsqlstoragepersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-226
+docs/tinybase-api/indexes/interfaces.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/persister-durable-object-sql-storage/interfaces/persister/durableobjectsqlstoragepersister/methods/getter/getstore.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-121
+docs/tinybase-api/persister-partykit-server/classes/server/tinybasepartykitserver/methods/connection.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-95
+docs/tinybase-api/metrics/interfaces/metrics/metrics/methods/lifecycle/destroy.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-124
+docs/tinybase-api/persister-postgres/interfaces/persister/postgrespersister/methods/lifecycle/stopautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-133
+docs/tinybase-api/persister-remote/interfaces/persister/remotepersister/methods/lifecycle/destroy.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-126
+docs/tinybase-api/persister-powersync/interfaces/persister/powersyncpersister/methods/development.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-91
+docs/tinybase-api/common/functions/hash/gettablehash.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-123
+docs/tinybase-api/common/functions/hash/getvalueshash.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-123
+docs/tinybase-api/indexes.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-97
+docs/tinybase-api/persister-browser/interfaces/persister/sessionpersister/methods/load/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-151
+docs/tinybase-api/persister-indexed-db/interfaces/persister/indexeddbpersister/methods/getter/getdbname.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-118
+docs/tinybase-api/persister-react-native-mmkv/interfaces/persister/reactnativemmkvpersister/methods/development/getstats.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/metrics/interfaces/metrics/metrics/methods/listener/dellistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-136
+docs/tinybase-api/persister-pglite/interfaces/persister/pglitepersister/methods/save/startautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-128
+docs/tinybase-api/schematizer-valibot.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-88
+docs/tinybase-api/persister-file/interfaces/persister/filepersister/methods/lifecycle/startautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/checkpoints/interfaces/checkpoints/checkpoints/methods/configuration.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-94
+docs/tinybase-api/synchronizers/type-aliases.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-91
+docs/tinybase-api/indexes/interfaces/indexes/indexes/methods/development/getlistenerstats.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-123
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/listener/adddidfinishtransactionlistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-201
+docs/tinybase-api/indexes/type-aliases/callback/slicecallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-105
+docs/tinybase-api/persister-postgres/interfaces/persister/postgrespersister/methods/lifecycle/destroy.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-126
+docs/tinybase-api/persister-sqlite-bun/interfaces/persister/sqlitebunpersister/methods/lifecycle/startautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/metrics/interfaces/metrics/metrics/methods/getter.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-104
+docs/tinybase-api/persister-partykit-server/classes/server/tinybasepartykitserver/methods/sanitization/candelcell.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-135
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/syncing/getmergeablevaluehashes.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-131
+docs/tinybase-api/persister-pglite/interfaces/persister/pglitepersister/methods/getter/getpglite.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/persister-pglite/interfaces/persister/pglitepersister/methods/lifecycle/destroy.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-126
+docs/tinybase-api/queries.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-100
+docs/tinybase-api/mergeable-store/type-aliases/stamps/valuesstamp.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-101
+docs/tinybase-api/persister-libsql/functions.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-82
+docs/tinybase-api/persister-expo-sqlite/interfaces/persister/exposqlitepersister/methods/lifecycle.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-103
+docs/tinybase-api/persister-partykit-server/type-aliases.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-83
+docs/tinybase-api/mergeable-store/type-aliases.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-105
+docs/tinybase-api/persister-sqlite-wasm/interfaces/persister/sqlitewasmpersister/methods/lifecycle/destroy.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-126
+docs/tinybase-api/checkpoints/type-aliases/callback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-88
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/deleter/delvalue.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-146
+docs/tinybase-api/synchronizers/functions/creation/createcustomsynchronizer.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-169
+docs/tinybase-api/persister-durable-object-storage/interfaces/persister/durableobjectstoragepersister/methods/lifecycle/destroy.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-126
+docs/tinybase-api/persister-browser/interfaces/persister/sessionpersister/methods/lifecycle/destroy.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-128
+docs/tinybase-api/checkpoints/interfaces/checkpoints/checkpoints/methods/getter/hascheckpoint.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-123
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/listener/addhascelllistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-230
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/syncing/getmergeablerowdiff.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-152
+docs/tinybase-api/persister-browser/interfaces/persister/localpersister/methods/save/stopautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-134
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/listener/addhastablecelllistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-224
+docs/tinybase-api/mergeable-store/type-aliases/stamps/tablesstamp.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-101
+docs/tinybase-api/persister-partykit-server/functions/storage.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-89
+docs/tinybase-api/metrics/interfaces/metrics/metrics/methods/getter/getmetric.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-130
+docs/tinybase-api/store.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-99
+docs/tinybase-api/checkpoints/type-aliases/callback/checkpointcallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-104
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/deleter/delschema.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-131
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/deleter/delvalues.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-144
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/transaction/gettransactionmergeablechanges.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-137
+docs/tinybase-api/persister-indexed-db/interfaces/persister/indexeddbpersister/methods/lifecycle/getstatus.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/persister-sqlite-bun/functions/creation/createsqlitebunpersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-166
+docs/tinybase-api/persister-remote/interfaces/persister/remotepersister/methods/load/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-149
+docs/tinybase-api/persister-indexed-db/functions/creation/createindexeddbpersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-137
+docs/tinybase-api/persister-react-native-sqlite/interfaces/persister/reactnativesqlitepersister/methods/lifecycle/stopautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-133
+docs/tinybase-api/indexes/type-aliases/listener/sliceidslistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-107
+docs/tinybase-api/persister-remote/interfaces/persister/remotepersister/methods/lifecycle/stopautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-133
+docs/tinybase-api/persister-electric-sql/interfaces/persister/electricsqlpersister/methods/listener/addstatuslistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/metrics/type-aliases/callback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-89
+docs/tinybase-api/indexes/interfaces/indexes/indexes/methods/listener/addslicerowidslistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-183
+docs/tinybase-api/persister-pglite/functions/creation/createpglitepersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-177
+docs/tinybase-api/persister-browser/interfaces/persister/opfspersister.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-129
+docs/tinybase-api/schematizer-typebox/functions/creation/createtypeboxschematizer.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-111
+docs/tinybase-api/common/functions.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-105
+docs/tinybase-api/persister-automerge.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-91
+docs/tinybase-api/persister-cr-sqlite-wasm/interfaces/persister/crsqlitewasmpersister/methods/lifecycle/getstatus.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/persister-durable-object-sql-storage/interfaces/persister/durableobjectsqlstoragepersister/methods/listener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-95
+docs/tinybase-api/common/functions/stamps/gethlcfunctions.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-159
+docs/tinybase-api/persister-expo-sqlite.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-92
+docs/tinybase-api/ui-svelte-dom.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-94
+docs/tinybase-api/persister-expo-sqlite/interfaces/persister/exposqlitepersister/methods/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/listener/addinvalidcelllistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-324
+docs/tinybase-api/persister-react-native-mmkv/functions.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-82
+docs/tinybase-api/persister-browser/interfaces/persister/localpersister/methods/lifecycle/destroy.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-128
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/setter/setcell.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-177
+docs/tinybase-api/persister-pglite/interfaces/persister/pglitepersister/methods/listener/addstatuslistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/persister-react-native-mmkv/interfaces/persister/reactnativemmkvpersister/methods/getter/getstoragename.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-123
+docs/tinybase-api/ui-react-dom.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-94
+docs/tinybase-api/mergeable-store.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-98
+docs/tinybase-api/persister-durable-object-storage/interfaces/persister/durableobjectstoragepersister/methods/save/isautosaving.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/persister-pglite/interfaces/persister/pglitepersister/methods/save/isautosaving.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/persister-partykit-client/interfaces/persister/partykitpersister/methods/listener/addstatuslistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-131
+docs/tinybase-api/persister-powersync/interfaces/persister/powersyncpersister/methods/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/persister-sqlite-wasm/interfaces/persister/sqlitewasmpersister/methods/listener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/middleware/type-aliases/callback/willsetcellcallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-117
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/syncing/getmergeablevaluediff.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-146
+docs/tinybase-api/indexes/functions/creation/createindexes.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-121
+docs/tinybase-api/persister-automerge/interfaces/persister/automergepersister/methods/listener/dellistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-129
+docs/tinybase-api/persister-electric-sql/interfaces/persister/electricsqlpersister/methods/development.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-91
+docs/tinybase-api/persister-partykit-client/functions/creation/createpartykitpersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-133
+docs/tinybase-api/persister-cr-sqlite-wasm/interfaces/persister/crsqlitewasmpersister/methods/save/startautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-128
+docs/tinybase-api/persister-automerge/interfaces/persister/automergepersister/methods/lifecycle.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-103
+docs/tinybase-api/persister-react-native-sqlite/functions.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-82
+docs/tinybase-api/persister-remote/interfaces/persister/remotepersister/methods/lifecycle/schedule.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/iterator.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-106
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/listener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-175
+docs/tinybase-api/persister-durable-object-sql-storage/interfaces.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-90
+docs/tinybase-api/persister-sqlite3/interfaces/persister/sqlite3persister/methods/load/stopautoload.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-140
+docs/tinybase-api/common/functions/convenience/getuniqueid.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-119
+docs/tinybase-api/persister-indexed-db/interfaces/persister/indexeddbpersister/methods/listener/dellistener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-129
+docs/tinybase-api/persister-durable-object-storage/interfaces/persister/durableobjectstoragepersister/methods/getter/getstorage.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/persister-pglite/interfaces/persister/pglitepersister/methods/save/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-123
+docs/tinybase-api/persister-libsql/interfaces/persister/libsqlpersister/methods/lifecycle.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-103
+docs/tinybase-api/persister-partykit-client/interfaces/persister/partykitpersister/methods/lifecycle/getstatus.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-121
+docs/tinybase-api/persister-react-native-mmkv/interfaces/persister/reactnativemmkvpersister/methods/save/isautosaving.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/metrics/interfaces/metrics/metrics/methods/listener/addmetricidslistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-132
+docs/tinybase-api/persister-remote/interfaces/persister/remotepersister/methods/getter/geturls.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-123
+docs/tinybase-api/indexes/interfaces/indexes/indexes/methods/getter/hasindex.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-124
+docs/tinybase-api/persister-pglite/interfaces/persister/pglitepersister/methods/load/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-149
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/deleter/deltables.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-125
+docs/tinybase-api/the-essentials/getting-data.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-97
+docs/tinybase-api/persister-postgres.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/synchronizer-ws-server-simple/interfaces/server/wsserversimple.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-92
+docs/tinybase-api/persister-react-native-mmkv/interfaces/persister/reactnativemmkvpersister/methods/lifecycle/destroy.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-126
+docs/tinybase-api/schematizer-effect/interfaces/schematizer/effectschematizer.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/relationships/functions/creation/createrelationships.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-121
+docs/tinybase-api/persister-partykit-client/interfaces/persister/partykitpersister/methods/development/getstats.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-131
+docs/tinybase-api/the-essentials/synchronizing-stores.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-97
+docs/tinybase-api/schematizer-yup.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-88
+docs/tinybase-api/persister-file/interfaces/persister/filepersister/methods/lifecycle/getstatus.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/persister-file/interfaces/persister/filepersister/methods/load/isautoloading.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/middleware/type-aliases/callback/willsettablecallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-113
+docs/tinybase-api/persister-react-native-mmkv/interfaces/persister/reactnativemmkvpersister/methods/lifecycle/startautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/persister-sqlite3/interfaces/persister/sqlite3persister/methods/development/getstats.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/development/getlistenerstats.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-123
+docs/tinybase-api/persister-browser/interfaces/persister/localpersister/methods/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-102
+docs/tinybase-api/checkpoints/interfaces/checkpoints/checkpoints/methods/movement/gobackward.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-131
+docs/tinybase-api/persister-pglite/interfaces/persister/pglitepersister/methods/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+docs/tinybase-api/common/type-aliases/callback/parameterizedcallback.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-100
+docs/tinybase-api/persister-sqlite-wasm/interfaces/persister/sqlitewasmpersister.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-127
+docs/tinybase-api/persister-postgres/interfaces/persister/postgrespersister/methods/save/isautosaving.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-125
+docs/tinybase-api/persister-powersync/interfaces/persister/powersyncpersister/methods/save/stopautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-132
+docs/tinybase-api/persister-sqlite-wasm/interfaces/persister/sqlitewasmpersister/methods/development/getstats.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-130
+docs/tinybase-api/persister-browser/interfaces/persister/sessionpersister/methods/development.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-93
+docs/tinybase-api/persister-durable-object-sql-storage/interfaces/persister/durableobjectsqlstoragepersister/methods/development.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-92
+docs/tinybase-api/persister-electric-sql/interfaces/persister/electricsqlpersister/methods/load/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-149
+docs/tinybase-api/persister-postgres/interfaces/persister/postgrespersister/methods/save/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-123
+docs/tinybase-api/persister-durable-object-sql-storage/interfaces/persister/durableobjectsqlstoragepersister/methods/getter/getsqlstorage.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-126
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/deleter/deltable.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-130
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/listener/addcellidslistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-212
+docs/tinybase-api/persister-partykit-client/interfaces/persister/partykitpersister/methods/save/stopautosave.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-133
+docs/tinybase-api/persister-powersync/interfaces/persister/powersyncpersister/methods/getter/getstore.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/transaction/starttransaction.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-135
+docs/tinybase-api/indexes/interfaces/indexes/indexes/methods/configuration.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-95
+docs/tinybase-api/persister-durable-object-storage/interfaces/persister/durableobjectstoragepersister/methods/listener.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-94
+docs/tinybase-api/persister-expo-sqlite/interfaces/persister/exposqlitepersister/methods/lifecycle/getstatus.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-120
+docs/tinybase-api/mergeable-store/interfaces/mergeable/mergeablestore/methods/listener/addstarttransactionlistener.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-160
+docs/tinybase-api/persister-pglite/interfaces.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-89
+docs/tinybase-api/persister-react-native-sqlite/interfaces/persister/reactnativesqlitepersister/methods/load/load.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-149
+docs/tinybase-api/mergeable-store/type-aliases/stamps/stamp.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-102
+docs/tinybase-api/persister-sqlite-wasm/interfaces.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-89
+docs/tinybase-api/schematizers/interfaces/schematizer/schematizer.md
+  s_fdb5cc15afdc9c::t_cb13f1ee4cabd5 1-90
+docs/tinybase-api/persister-durable-object-sql-storage/interfaces/persister/durableobjectsqlstoragepersister/methods/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-101
+docs/tinybase-api/persister-sqlite-wasm/interfaces/persister/sqlitewasmpersister/methods/lifecycle/stopautopersisting.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-133
+docs/tinybase-api/persister-sqlite-wasm/interfaces/persister/sqlitewasmpersister/methods/save.md
+  s_fdb5cc15afdc9c::t_f7096ceb86bf49 1-100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "1d4523b4e4c2459ee5f0f7da97cad94f42ffb21b",
+  "prompts": {},
+  "sessions": {
+    "s_65a6d03cab00be": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019df325-3942-768a-bccb-5df668f3e999",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Benjamin Jesuiter <bjesuiter@gmail.com>"
+    },
+    "s_fdb5cc15afdc9c": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019e06ff-4cee-73fc-af0e-4fdf332a4e38",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Benjamin Jesuiter <bjesuiter@gmail.com>"
+    }
+  }
+}
